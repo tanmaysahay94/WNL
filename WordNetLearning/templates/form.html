@@ -1,0 +1,26 @@
+{% for word in metadata %}
+    <h4> Hindi Word followed by English Translation </h4>
+    {{ word.hindi_word }} {{ word.english_meaning }} <br>
+    <h4> Examples of word with translations </h4>
+    {% for ex in word.examples %}
+    {{ ex }} <br>
+    {% endfor %}
+    <br>
+{% endfor %}
+<h4> Choose appropriate sense </h4>
+<form method="POST" action=".">
+    {% csrf_token %}
+    <ul>
+        {% for index, h_word in enumerated_hindi_words %}
+            <b>{{ h_word }}</b> <br>
+            {% for choice in form.fields.toChoose.choices %}
+            <li>
+                <input type="radio" name="correct_sense_{{ index }}" value="{{ choice.0 }}">
+                <label for=""> {{ choice.1 }} </label>
+            </li>
+            {% endfor %}
+            <input type="hidden" value="{{ h_word }}" name="hindi_word_{{ index }}">
+        {% endfor %}
+    </ul>
+    <input type="submit" value="Submit">
+</form>

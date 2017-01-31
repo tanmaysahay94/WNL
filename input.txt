@@ -1,0 +1,40 @@
+अँग्रेजी English
+सरल अँग्रेजी  simple English
+ख़राब अँग्रेजी  bad English
+अच्छी अँग्रेजी  good English
+-
+गरमी heat
+सड़ी गरमी  sultry heat
+सख़्त गरमी  oppressive heat
+भयानक गरमी  terrible heat
+-
+चाल gait
+धीमी चाल  slow gait
+तेज़ चाल  fast gait
+-
+सूचना information
+विश्‍वस्त सूचना  reliable information
+महत्त्वपूर्ण सूचना  important information
+आधिकारिक सूचना  authentic information
+-
+छुट्टी leave
+आकिस्मक छुट्टी  casual leave
+अर्जित छुट्टी  earned leave
+अग्रिम छुट्टी  advance leave
+-
+संस्कृत Sanskrit
+संकर संस्कृत  hybrid Sanskrit
+वैदिक संस्कृत  Vedic Sanskrit
+लौकिक संस्कृत  classical Sanskrit
+शुद्ध संस्कृत  correct Sanskrit
+-
+सरदी cold
+सूखी सरदी  dry cold
+नरम/हलकी सरदी  mild cold
+तेज़ सरदी  sharp/biting cold
+कड़ी सरदी  severe cold
+-
+सराहना praise
+सच्ची सराहना  true praise
+झूठी सराहना  false praise
+-

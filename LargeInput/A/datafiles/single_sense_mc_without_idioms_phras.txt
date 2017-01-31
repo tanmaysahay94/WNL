@@ -1,0 +1,2598 @@
+(1)अंकुर aṅkur _mc_ sprout, shoot 
+ नया अंकुर  new  shoot  
+ हरा अंकुर  green  shoot  
+
+(2)अंगूर aṅgūr _mc_ grape 
+ कच्चा अंगूर  unripe  grape  
+ पका अंगूर  ripe  grape  
+ खट्टा अंगूर  sour  grape  
+
+(3)अँगोछा ãgochhā _mc_ towel, napkin 
+ साफ़ अँगोछा  clean  napkin  
+ गंदा अँगोछा  dirty  napkin  
+ छोटा अँगोछा  small  napkin  
+ बड़ा अँगोछा  big  napkin  
+ धारीदार अँगोछा  striped  napkin  
+
+(4)अंडा aṇḍā _mc_ egg 
+ अध-उबला अंडा  half-boiled  egg  
+ (पूरा) उबला  हुआ अंडा  (full) boiled egg 
+ गंदा अंडा  addled  egg  
+ ताजा अंडा  fresh  egg  
+
+(5)अक्षर akṣar _mc_ letter (s) 
+ छो़टे अक्षर  small  letter (s)  
+ बड़े अक्षर  capital  letter (s)  
+ पहला अक्षर  first  letter (s)  
+ नागरी अक्षर  Nagari  letter (s)  
+
+(6)समझौता sam·jhāūtā _mc_ understanding, pact, agreement 
+ आर्थिक समझौता  financial  agreement  
+ गुप्त समझौता  secret  agreement  
+ आपसी समझौता  mutual  agreement   
+
+(7)अचकन ach·kan _mc_ a kind of long coat 
+ सूती अचकन  cotton  a kind of long coat  
+ रेशमी अचकन  silk  a kind of long coat  
+ ऊनी अचकन  woollen  a kind of long coat  
+
+(8)सबूत sabūt _mc_ proof 
+ पक्का सबूत  strong  proof  
+ बेकार सबूत  vain  proof  
+ सही सबूत  correct  proof  
+
+(9)सभापति sabhāpati _mc_ chairman, president 
+ अस्थायी सभापति  temporary  president  
+ निर्वाचित सभापति  elected  president  
+ स्थायी सभापति  permanent  president   
+
+(10)अजायब-घर ajāyab-ghar _mc_ museum 
+ राष्ट्रीय अजायब-घर  national  museum  
+ ऐतिहासिक अजायब-घर  historical  museum  
+
+(11)अधिवेशन adhiveshan _mc_ session 
+ खुला अधिवेशन  open  session  
+ गुप्त अधिवेशन  secret  session  
+ वार्षिक अधिवेशन  annual  session  
+ विशेष अधिवेशन  special  session  
+ साधारण अधिवेशन  general  session  
+
+(12)अधीक्षक adhīkṣak _mc_ superintendent 
+ छात्रावास अधीक्षक  hostel  superintendent  
+ पुलिस अधीक्षक  police  superintendent  
+
+(13)अध्यापक adhyāpak _mc_ teacher 
+ अच्छा अध्यापक  good  teacher  
+ अनुभवी अध्यापक  experienced  teacher  
+ बुरा अध्यापक  bad  teacher  
+ कड़ा अध्यापक  strict  teacher  
+
+(14)अनाज anāj _mc_ corn, grain(s)  
+ मोटा अनाज  coarse corn/grain(s)  
+ सस्ता अनाज  cheap corn/grain(s)  
+
+(15)अनुदान anudān _mc_ grant (in- aid) 
+ अतिरिक्‍त अनुदान  additional  grant (in- aid)  
+ सरकारी अनुदान  government  grant (in- aid)  
+
+(16)अफसर af·sar _mc_ officer 
+ छोटा अफसर  junior  officer  
+ बड़ा अफसर  senior  officer  
+ फ़ौजी/सेना  का अफसर   military  officer
+ सरकारी अफसर  government  officer  
+
+(17)अभिनेता abhinetā _mc_ actor 
+ फ़िल्म- अभिनेता  film-actor  
+ लोकप्रिय अभिनेता  popular  actor  
+ सम्मानित अभिनेता  honoured  actor  
+
+(18)अलबम al·bam _mc_ album 
+ चित्रों का अलबम   album of pictures/photos  
+ टिकटों का अलबम    album of stamps  album  
+
+(19)अस्पताल aspatāl _mc_ hospital 
+ नया अस्पताल  new hospital
+ बड़ा अस्पताल  big  hospital  
+ ज़नाना अस्पताल  lady  hospital  
+ सैनिक अस्पताल  military  hospital  
+ आँखों का अस्पताल    eye hospital    
+ पशुओं का अस्पताल     veterinary hospital 
+ चलता-फिरता अस्पताल  mobile  hospital  
+
+(20)अहाता ahātā _mc_ compound 
+ खुला अहाता  wide, open  compound   
+
+(21)आँगन ã̄gan _mc_ (court) yard 
+ बड़ा आँगन  big  (court) yard  
+ छोटा आँगन  small  (court) yard  
+ साफ़-सुथरा आँगन  clean & tidy  (court) yard  
+ कच्चा आँगन  unmetalled  (court) yard  
+ पक्का आँगन   metalled (court) yard 
+
+(22)आईना āīnā _mc_ mirror 
+ छोटा आईना  small  mirror  
+ बड़ा आईना  big  mirror  
+ गोल आईना  round  mirror  
+ टूटा हुआ आईना    cracked/broken mirror   
+
+(23)आक्रमण ākramaṇ _mc_ attack, assault 
+ जवाबी/प्रतिरोधी आक्रमण  counter-  assault  
+ सीधा आक्रमण  direct  assault  
+ हवाई आक्रमण  aerial  assault  
+
+(24)आक्षेप ākṣep _mc_ charge, blame 
+ झूठा आक्षेप  false  blame  
+
+(25)आड़ू āṛū _mc_ peach 
+ खट्टा आड़ू  sour  peach  
+ कच्चा आड़ू  unripe  peach  
+ मीठा आड़ू  sweet  peach  
+ पका आड़ू  ripe  peach  
+
+(26)आधार ādhār _mc_ basis 
+ राजनीतिक आधार  political  basis  
+ वैज्ञानिक आधार  scientific  basis  
+ सांस्कृतिक आधार  cultural  basis  
+
+(27)आपरेशन āp·reshan _mc_ operation (surgical) 
+ बड़ा/भारी आपरेशन  major operation (surgical)   
+ छोटा आपरेशन  minor operation (surgical)  
+ सफल आपरेशन  successful  operation (surgical)  
+
+(28)आयोग āyog _mc_ commission 
+ अंत-र्राष्ट्रीय  आयोग   international commission   
+ अस्थायी आयोग  temporary  commission  
+ स्थायी आयोग  standing/regular  commission  
+
+(29)समधी sam·dhī _mc_ father-in-law of one's son or daughter 
+ भलामानस समधी  gentlemanly  father-in-law of one's son or daughter  
+ लालची समधी  greedy  father-in-law of one's son or daughter  
+ स्वार्थी समधी  selfish  father-in-law of one's son or daughter
+
+(30)आरोप ārop _mc_ charge, allegation 
+ झूठा आरोप  false  allegation  
+ सच्चा आरोप  true  allegation  
+
+(31)आर्डर ārḍar _mc_ order 
+ पक्का आर्डर  standing  order  
+ सरकारी आर्डर  government  order  
+ स्पेशल आर्डर  special  order  
+
+(32)आलू ālū _mc_ potato(s) 
+ उबले हुए आलू    boiled  potato(s)  
+ पकाये हुए आलू     baked potato(s)    
+ नये आलू   new  potato(s)  
+
+(33)आलू-बुखारा ālū-buḵẖārā _mc_ plum 
+ पीला आलू-बुखारा  yellow  plum  
+ पका आलू-बुखारा  ripe  plum  
+ लाल आलू-बुखारा  red  plum  
+ हरा आलू-बुखारा  green  plum  
+
+(34)आलोचक ālochak _mc_ critic 
+ कड़ा आलोचक  hard  critic  
+ निष्पक्ष आलोचक  impartial  critic  
+
+(35)आविष्कार āviṣkār _mc_ invention 
+ आधुनिक आविष्कार  modern  invention  
+ वैज्ञानिक आविष्कार  scientific  invention  
+
+(36)इंजन iñjan _mc_ engine 
+ हलका इंजन  light  engine  
+ भारी इंजन  heavy  engine  
+ छोटा इंजन  small  engine  
+ बड़ा इंजन  big engine   
+ डीज़ल इंजन  diesel-engine  
+ तेल काइंजन   oil-engine   
+ बिजली का इंजन    electric engine    
+ भाप का इंजन    steam-engine    
+
+(37)इंटरव्यू iṇṭarvyū _mc_ interview 
+ खुला इंटरव्यू  open  interview  
+ गुप्त इंटरव्यू  secret  interview  
+ रोचक इंटरव्यू  interesting  interview  
+ संक्षिप्त इंटरव्यू  brief  interview  
+
+(38)इजारबंद izārband _mc_ trouser- string 
+ रेशमी इजारबंद  silken  trouser-string  
+ सूती इजारबंद  cotton  trouser-string  
+
+(39)इतिहासकार itihās·kār _mc_ historian 
+ अनुभवी इतिहासकार  experienced  historian  
+ पुराना इतिहासकार  old  historian  
+ प्रसिद्ध इतिहासकार  well-known,famous  historian   
+
+(40)इत्र itra _mc_ otto, scent 
+ महँगा/कीमती इत्र  expensive  scent  
+ सस्ता इत्र  cheap  scent  
+
+(41)इरादा irādā _mc_ intention 
+ कच्चा- पक्का  इरादा   half intention    
+
+(42)उदाहरण udāharaṇ _mc_ instance, example 
+ आदर्श उदाहरण  ideal  example  
+ सच्चा उदाहरण  true  example  
+ हमारा उदाहरण  our  example  
+
+(43)उद्देश्य uddeshy _mc_ purpose, object, aim 
+ निश्चित उद्देश्य  definite  aim  
+ स्वार्थपूर्ण उद्देश्य  selfish  aim  
+
+(44)उद्योगपति udyog·pati _mc_ industrialist 
+ बड़ा उद्योगपति  big  industrialist  
+ सफल उद्योगपति  successful  industrialist  
+
+(45)उपदेशक up·deshak _mc_ preacher 
+ धार्मिक उपदेशक  religious  preacher  
+ ईसाई उपदेशक  Christian  preacher  
+
+(46)उपन्यास upanyās _mc_ novel 
+ ऐतिहा- सिक उपन्यास    historical novel   
+ जासूसी उपन्यास  detective  novel  
+ ताज़ा उपन्यास  latest  novel  
+ प्रसिद्ध उपन्यास  famous/well-known  novel  
+ प्रिय उपन्यास  favourite  novel  
+ सामाजिक उपन्यास  social  novel  
+
+(47)उपहार up·hār _mc_ present, gift 
+ जन्मदिन का उपहार   birthday  gift  
+ बहुमूल्य/मूल्यवान् उपहार  expensive  gift  
+ बढ़िया उपहार  fine  gift  
+ सुन्दर उपहार  beautiful  gift  
+
+(48)समाचार samāchār _mc_ news 
+ अविश्‍वसनीय समाचार  incredible  news  
+ ताज़ा समाचार  fresh,latest  news  
+ विस्तृत समाचार  detailed  news  
+ शुभ समाचार  good  news 
+
+(49)ऊँट ū̃ṭ _mc_ camel 
+ दो-कोहानी ऊँट  double-humped  camel  
+ लादू ऊँट  pack-camel  
+ सवारी ऊँट  riding  camel  
+
+(50)एक्स-रे eks·re _mc_ X-ray 
+ एक्स-रे एक्स-रे  जाँच/  X-ray   
+परीक्षा एक्स-रे  examination  X-ray  
+ फ़ोटो एक्स-रे  photo  X-ray  
+
+(51)एटम eṭam _mc_ atom 
+ बम एटम  bomb  atom  
+
+(52)ऐटलस āīt·las _mc_ atlas 
+ छोटा ऐटलस  small  atlas  
+ रंगीन ऐटलस  coloured  atlas  
+
+(53)ओंठ/होंठ õṭh-hõṭh _mc_ lip 
+ उपरला ओंठ/होंठ  upper  lip  
+ निचला ओंठ/होंठ  lower  lip  
+
+(54)ओला olā _mc_ hailstone 
+ भारी ओला  heavy  hailstone  
+ हलका ओला  light  hailstone  
+
+(55)ओवरकोट ovar·koṭ _mc_ overcoat 
+ ज़नाना ओवरकोट  ladies'  overcoat  
+ मर्दाना ओवरकोट  gents'  overcoat  
+ हलका ओवरकोट  light  overcoat  
+
+(56)ओहदा oh·dā _mc_ rank, post 
+ बड़ा ओहदा  high  post  
+ मामूली ओहदा  ordinary  post  
+
+(57)औजार āūzār _mc_ instrument, tool 
+ छोटा औजार  small  tool  
+ बड़ा औजार  big  tool  
+ नया औजार  new  tool  
+
+(58)औषधालय āūṣadhālay _mc_ dispensary 
+ निजी औषधालय  private  dispensary  
+ सरकारी औषधालय  government  dispensary  
+
+(59)कंठ kaṇṭh _mc_ throat, larynx 
+ सूखा कंठ  dry  larynx  
+ कोमल कंठ  soft  larynx  
+ भरा-भरा कंठ  choked  larynx  
+
+(60)कंधा kandhā _mc_ shoulder 
+ चौड़ा कंधा  broad  shoulder  
+ तंग कंधा  narrow  shoulder  
+
+(61)कंबल kambal _mc_ blanket 
+ ऊनी कंबल  woollen  blanket  
+ सूती कंबल  cotton  blanket  
+ हलका कंबल  light  blanket  
+ भारी कंबल  heavy  blanket  
+
+(62)कप kap _mc_ cup 
+ आधा कप  half  cup  
+ पूरा कप  full  cup  
+ चीनी का  कप   china cup   
+ नया कप  new  cup  
+
+(63)कपट kapaṭ _mc_ deceipt, fraud 
+ घोर कपट  terrible  fraud  
+ भारी कपट  great  fraud  
+
+(64)कबाब kabāb _mc_ skewed meat 
+ कच्चा कबाब  underbaked  skewed meat  
+ भुना हुआ कबाब   roasted skewed meat  
+
+(65)कबूतर kabūtar _mc_ pigeon 
+ पालतू कबूतर  domestic/pet  pigeon  
+ जंगली कबूतर  wild  pigeon  
+ सफ़ेद कबूतर  white  pigeon  
+
+(66)कमरा kam·rā _mc_ room 
+ खाने का कमरा  dining room  
+ बैठने का  कमरा   sitting/drawing room     
+ लिखने-पढ़ने का कमरा     study-room  
+ सोने का कमरा    sleeping/bed-room    
+ ख़ाली कमरा  vacant/empty  room  
+ बड़ा कमरा  big  room  
+ छोटा कमरा  small  room  
+ सजा कमरा  हुआ  decorated room   
+
+(67)कमल kamal _mc_ lotus 
+ नीला कमल  blue  lotus  
+ लाल कमल  red  lotus  
+ सफ़ेद कमल  white  lotus  
+
+(68)कमांडर kamānḍar _mc_ commander 
+ प्रधान/सर्वोच्च कमांडर  commander-in-chief    
+ फ़ौजी (सेना का) कमांडर  military  commander  
+
+(69)कर kar _mc_ tax 
+ थोड़ा कर  small  tax  
+ भारी कर  heavy  tax  
+
+(70)समाचार-पत्र samāchār-patra _mc_ newspaper 
+ दैनिक समाचार-पत्र  daily  newspaper  
+ पाक्षिक समाचार-पत्र  fortnightly  newspaper  
+ साप्ताहिक समाचार-पत्र  weekly  newspaper  
+ ताज़ा समाचार-पत्र  latest  newspaper  
+
+(71)समालोचक samālochak _mc_ critic 
+ ईर्ष्यालु समालोचक  jealous  critic  
+ न्यायप्रिय समालोचक  just  critic  
+ साहित्यिक समालोचक  literary  critic  
+
+(72)कर्त्तव्य kartavya _mc_ duty 
+ आवश्यक कर्त्तव्य  essential  duty  
+ नैतिक कर्त्तव्य  moral  duty  
+ पवित्र/पुण्य कर्त्तव्य  sacred/pious  duty  
+
+(73)कलाकार kalākār _mc_ artist 
+ प्रसिद्ध कलाकार  well-known  artist  
+ बड़ा कलाकार  great/big  artist  
+
+(74)कलेंडर kalenḍar _mc_ calendar 
+ नया कलेंडर  new  calendar  
+ पुराना कलेंडर  old  calendar  
+ इस वर्ष  का कलेंडर  this year's calendar   
+
+(75)कवि kavi _mc_ poet 
+ आधुनिक कवि  modern  poet  
+ पुराना कवि  old  poet  
+ हिन्दी कवि  Hindi  poet  
+
+(76)क़स्वा qasbā _mc_ township 
+ छोटा क़स्वा  small  township  
+ पुराना क़स्वा  old  township  
+ नया क़स्वा  new  township  
+
+(77)क़ानून qānūn _mc_ law 
+ दीवानी क़ानून  civil  law  
+ फ़ौजदारी क़ानून  criminal  law  
+ कड़ा क़ानून  strict/rigid  law  
+ नया क़ानून  new  law  
+
+(78)-कारख़ाना kār·ḵẖānā _mc_ plant, factory 
+ नंया कारख़ाना  new  factory  
+ इस्पात/लोहे का कारख़ाना  steel  factory  
+ चिनी का कारख़ाना  sugar factory    
+
+(79)कारख़ानेदार kār·ḵẖānedār _mc_ owner of a factory, industrialist 
+ बड़ा/भारी कारख़ानेदार  big industrialist   
+मालदार/धनी कारख़ानेदार  rich  industrialist  
+ स्वार्थी कारख़ानेदार  selfish  industrialist  
+
+(80)कारतूस kār·tūs _mc_ cartridge 
+ ख़ाली कारतूस  blank  cartridge  
+ घातक कारतूस  deadly  cartridge  
+
+(81)समुद्र samudra _mc_ sea 
+ अशांत समुद्र  turbulent  sea  
+ खुला समुद्र  open  sea  
+ गहरा समुद्र  deep  sea  
+ शांत समुद्र  calm  sea 
+
+(82)कार्यक्रम kāryakram _mc_ programme 
+ आज का  कार्यक्रम   today's programme   
+ सांस्कृतिक कार्यक्रम  cultural  programme  
+
+(83)कार्यालय kāryālay _mc_ office 
+ केन्द्रीय कार्यालय  central  office  
+ प्रधान कार्यालय  head  office  
+ सरकारी कार्यालय  government  office  
+
+(84)कालीन kālīn _mc_ carpet 
+ ऊनी कालीन  woollen  carpet  
+ कीमती कालीन  costly  carpet  
+ सस्ता कालीन  cheap  carpet  
+ ईरानी कालीन  Persian  carpet  
+
+(85)कालेज kālej _mc_ college 
+ आदर्श कालेज  model  college  
+ नया कालेज  new  college  
+ पुराना कालेज  old  college  
+
+(86)क़िला qilā _mc_ fort 
+ पुराना क़िला  old  fort  
+ मुग़लई क़िला  Mughal  fort  
+ लाल क़िला   Red fort (of Delhi) 
+ शाही क़िला  royal  fort  
+
+(87)किवाड़ kivāṛ _mc_ door (panel) 
+ खुला किवाड़  open  door (panel) 
+ बंद किवाड़  closed  door (panel) 
+
+(88)कुआँ kuã̄ _mc_ well 
+ अंधा कुआँ  dry  well  
+ छिछला कुआँ  shallow  well  
+ गहरा कुआँ  deep  well  
+ तेल का कुआँ    oil-well 
+
+(89)कुटीर kuṭīr _mc_ cottage 
+ छोटा कुटीर  little  cottage  
+ सड़क  के  किनारे का कुटीर    roadside cottage     
+
+(90)कुटुंब kuṭumb _mc_ household, family 
+ अमीर कुटुंब  rich  family  
+ ग़रीब कुटुंब  poor  family  
+ छोटा कुटुंब  small  family  
+ बड़ा कुटुंब  large/big  family  
+
+(91)कुरता kur·tā _mc_ a loose shirt without collar and cuffs, kurta 
+ ऊनी कुरता  woollen  kurta  
+ रेशमी कुरता  silken  kurta  
+ सूती कुरता  cotton  kurta  
+
+(92)कुल¹ kul _mc_ lineage, family 
+ उच्च कुल¹  high  family  
+ नीच कुल¹  low  family  
+
+(93)कूचा kūchā _mc_ lane, street 
+ चौड़ा कूचा  broad  street  
+ छोटा कूचा  small  street  
+ लंबा कूचा  long  street  
+
+(94)केक kek _mc_ cake 
+ ताज़ा केक  fresh  cake  
+ मीठा केक  sweet  cake  
+ सादा केक  plain  cake  
+
+(95)केला kelā _mc_ banana 
+ मीठा केला  sweet  banana  
+ लंबा केला  long  banana  
+ छोटा केला  small  banana  
+ हरा केला  green  banana  
+
+(96)सम्मेलन sammelan _mc_ conference  
+ अन्तर्राष्ट्रीय सम्मेलन  international  conference   
+ क्षेत्रीय सम्मेलन  regional  conference   
+ शिखर सम्मेलन  summit  conference 
+
+(97)कैंप kāīmp _mc_ camp 
+ फ़ौंजी कैंप  military  camp  
+ क़ैदियों का  कैंप   prisoners' camp    
+ स्काउटों का कैंप    scout-camp   
+
+(98)कैमरा kāīm·rā _mc_ camera 
+ छोटा कैमरा  small  camera  
+ सस्ता कैमरा  cheap  camera  
+
+(99)कोट¹ koṭ _mc_ coat 
+ गरम कोट¹  warm/woollen  coat  
+ नया कोट¹  new  coat  
+ लंबा कोट¹  long  coat  
+ सूती कोट¹  cotton  coat  
+ हलका कोट¹  light  coat  
+
+(100)कोष्ठक koṣṭhak _mc_ bracket 
+ छोटा/ लघु () कोष्ठक   round/simple/small bracket    
+बड़ा/ गुरु/वर्गाकार [ ] कोष्ठक   square/box bracket 
+मँझोला/ सर्पाकार/धनुष { } कोष्ठक   middle/curly bracket 
+
+(101)सरोवर sarovar _mc_ lake 
+ गहरा सरोवर  deep  lake  
+ छोटा-सा सरोवर  small  lake  
+ बड़ा सरोवर  big  lake  
+ नीला सरोवर  blue  lake  
+
+(102)सर्क्यूलर sarkyūlar _mc_ circular 
+ तुरत सर्क्यूलर  express  circular  
+ महत्त्वपूर्ण सर्क्यूलर  important  circular  
+ सरकारी सर्क्यूलर  government  circular     
+
+(103)क्लॉक klāk _mc_ clock 
+ पुराना क्लॉक  old  clock  
+ बड़ा क्लॉक  big  clock  
+ कलवाला क्लॉक  mechanical  clock  
+
+(104)क्वार्टर kwarṭar _mc_ quarters, apartment 
+ नया क्वार्टर  new  apartment  
+ बड़ा क्वार्टर  big  apartment  
+ दो कमरे वाला क्वार्टर  two-room  apartment
+
+(105)खंजर ḵẖanjar _mc_ dagger 
+ तेज़/धारदार खंजर  sharp  dagger  
+ नोकदार खंजर  pointed  dagger  
+
+(106)ख़च्चर ḵẖachchar _mc_ mule 
+ जवान ख़च्चर  young  mule  
+ पहाड़ी ख़च्चर  hilly  mule  
+
+(107)खरबूजा khar·būjā _mc_ musk melon; 
+ कच्चा खरबूजा  unripe  musk melon;  
+ मीठा खरबूजा  sweet  musk melon;  
+
+(108)खाता khātā _mc_ account 
+ उधार खाता  credit  account  
+ कच्चा खाता  rough  account  
+ चालू खाता  current  account  
+ जमा खाता  deposit  account  
+ नामे खाता  debit  account  
+
+(109)खिलौना khilāunā _mc_ toy 
+ महँगा खिलौना  expensive  toy  
+ सस्ता खिलौना  cheap  toy  
+
+(110)खूँटा khū̃ṭā _mc_ stake 
+ लकड़ी का खूँटा   wooden  stake     
+ लोहे का खूँटा    iron stake   
+
+(111)खेतिहर khetihar _mc_ cultivator, farmer, peasant 
+ ग़रीब खेतिहर  poor  peasant  
+ ग्रामीण खेतिहर  rustic  peasant  
+
+(112)सहपाठी sah·pāṭhī _mc_ class-fellow, class-mate 
+ ईर्ष्यालु सहपाठी  jealous  class-mate  
+ पुराना सहपाठी  old  class-mate  
+ मित्र सहपाठी  friendly  class-mate  
+
+(113)गज़ट gazaṭ _mc_ gazette 
+ राजकीय गज़ट  government  gazette  
+ सरकारी गज़ट  official  gazette  
+
+(114)साँप sã̄p _mc_ snake, serpent 
+ ख़तरनाक साँप  dangerous  serpent  
+ ज़हरीला/विषैला साँप  poisonous  serpent  
+ बड़ा भारी साँप    very big  serpent   
+
+(115)गत्ता gattā _mc_ straw-board, card- board 
+ पतला गत्ता  thin  card- board  
+ मोटा गत्ता  thick  card- board  
+ हलका गत्ता  light  card- board  
+
+(116)गलियारा galiyārā _mc_ gallery, corridor 
+ तंग गलियारा  narrow  corridor  
+ लंबा गलियारा  long  corridor  
+ लंबा-चौड़ा गलियारा  wide  corridor  
+
+(117)गाल gāl _mc_ cheek 
+ गुलाबी गाल  rosy  cheek  
+ पीले गाल  pale  cheek  
+ लाल गाल  red  cheek  
+
+(118)गाहक gāhak _mc_ customer 
+ पुराना गाहक  old  customer  
+ नया गाहक  new  customer  
+ रोज़ का गाहक    daily/regular customer   
+
+(119)गिलास gilās _mc_ glass, tumbler 
+ ख़ाली गिलास  empty  tumbler  
+ गंदा गिलास  dirty  tumbler  
+ टूटा हुआ गिलास    broken tumbler  
+ साफ़ गिलास  clean  tumbler  
+
+(120)साइनबोर्ड sāīn·borḍ _mc_ sign- board 
+ छोटा-सा साइनबोर्ड  small sign-board  
+ लकड़ी का साइनबोर्ड    wooden sign-board    
+ हिन्दी का  साइनबोर्ड   Hindi sign-board     
+
+(121)गुलाब gulāb _mc_ rose 
+ जंगली गुलाब  wild  rose  
+ देशी गुलाब  Indian  rose  
+
+(122)गुलूबंद gulūband _mc_ muffler; 
+ ऊनी गुलूबंद  woollen  muffler  
+ रेशमी गुलूबंद  silken  muffler  
+
+(123)गोदाम godām _mc_ godown, storage 
+ बड़ा गोदाम  big  storage  
+ छोटा-सा गोदाम  small  storage  
+ रेल गोदाम  railway  storage  
+ तेल का गोदाम    oil-storage   
+
+(124)साग sāg _mc_ potherb 
+ कच्चा साग  raw  potherb  
+ पका साग  cooked  potherb  
+ ताज़ा साग  fresh  potherb     
+
+(125)गोलकीपर gol·kīpar _mc_ goalkeeper 
+ रद्दी गोलकीपर  hopeless  goalkeeper  
+ होशियार गोलकीपर  alert  goalkeeper  
+
+(126)ग्रंथ granth _mc_ book 
+ अप्रकाशित ग्रंथ  unpublished  book  
+ पुराना ग्रंथ  old  book  
+ बड़ा ग्रंथ  big/voluminous  book  
+
+(127)ग्रंथालय granthālay _mc_ library 
+ निजी ग्रंथालय  personal/private  library  
+ राजकीय ग्रंथालय  government/state  library  
+ राष्ट्रीय ग्रंथालय  national  library  
+
+(128)सागर sāgar _mc_ ocean 
+ असीम सागर  boundless  ocean  
+ नीला सागर  blue  ocean  
+ लंबा-चौड़ा सागर  vast  ocean   
+शान्त सागर  calm  ocean  
+
+(129)साझी sājhī, साझेदार sājhedār _mc_ partner 
+ गुप्त साझी  secret  partner  
+ नाममात्र साझी  nominal  partner  
+ सक्रिय साझी  active  partner   
+
+(130)घराना gharānā _mc_ dynasty, family 
+ प्रतिष्ठित घराना  reputed  family  
+ सम्पन्‍न घराना  well-to-do  family  
+ शाही घराना  royal  family  
+
+(131)साम्राज्य sāmrājya _mc_ empire 
+ बड़ा साम्राज्य  large  empire  
+ रोमन साम्राज्य  Roman  empire  
+ शक्‍ितशाली साम्राज्य  powerful  empire  
+
+(132)सारस sāras _mc_ crane 
+ उड़ता सारस  flying  crane  
+ तैरता सारस  floating  crane  
+ भद्दा सारस  ungainly  crane  
+
+(133)घाव ghāv _mc_ injury, wound 
+ गहरा घाव  deep  wound  
+ मामूली घाव  ordinary  wound  
+ हलका सा घाव   light  wound   
+
+(134)साढ़ू sāṛhū _mc_ husband of wife's sister 
+ छोटा साढ़ू  younger  husband of wife's sister  
+ बड़ा साढ़ू  elder  husband of wife's sister  
+
+(135)साधन sādhan _mc_ means, resources 
+ उपयुक्‍त साधन  proper  resources  
+ उपयोगी साधन  useful  resources  
+ प्राकृतिक साधन  natural  resources  
+ वास्तविक साधन  real  resources  
+ वैध साधन  lawful  resources  
+ स्थायी साधन  permanent  resources  
+
+(136)चम्मच chammach _mc_ spoon 
+ छोटा चम्मच  small/tea-spoon   
+ बड़ा चम्मच  big/dessert  spoon  
+ चाँदी का चम्मच    silver spoon    
+ स्टील का चम्मच    steel spoon   
+
+(137)चर्च charcha _mc_ church 
+ छोटा चर्च  small  church  
+ बड़ा चर्च  big  church  
+ लाल चर्च  red  church  
+
+(138)चलचित्र chal·chitra _mc_ motion picture, movie, cinema 
+ मूक चलचित्र  silent  cinema  
+ रंगीन चलचित्र  coloured  cinema  
+ सवाक् चलचित्र  talking(talkie)  cinema 
+
+(139)चाक़ू chāqū _mc_ knife 
+ तेज़ चाक़ू  sharp  knife  
+ भोथरा चाक़ू  blunt  knife  
+ छोटा चाक़ू  small  knife  
+ लंबा चाक़ू  long  knife  
+
+(140)सार्जेंट sārjent _mc_ sergeant 
+ कर्त्तव्य- सार्जेंट  परायण  dutiful sergeant    
+ चौकन्‍ना सार्जेंट  alert sergeant   
+होशियार सार्जेंट clever sergeant   
+
+(141)चाबुक chābuk _mc_ whip 
+ छोटा चाबुक  small  whip  
+ लंबा चाबुक  long  whip  
+ कड़ा चाबुक  stiff  whip  
+
+(142)चिड़ियाखाना chiṛiyāḵẖānā, चिड़ियाघर chiṛiyāghar _mc_ zoo 
+ बड़ा चिड़ियाखाना  large  zoo  
+ नया चिड़ियाखाना  new  zoo  
+
+(143)चूल्हा chūlhā _mc_ fire-place, hearth 
+ ईंटों का चूल्हा   brick-built  hearth  
+ मिट्टी का चूल्हा   earthen  hearth 
+ लोहे का चूल्हा    iron hearth  
+
+(144)छात्र chhātra _mc_ pupil, student 
+ आलसी छात्र  lazy  student  
+ चतुर छात्र  clever  student  
+ योग्य छात्र  able  student  
+
+(145)छात्रावास chhātrāvās _mc_ boardinghouse, hostel 
+ नया छात्रावास  new  hostel  
+ पुराना छात्रावास  old  hostel  
+
+(146)छापाख़ाना chhāpāḵẖānā _mc_ printing press 
+ सरकारी छापाख़ाना  government  printing press  
+ निजी छापाख़ाना  private  printing press  
+ नया छापाख़ाना  new  printing press  
+
+(147)जंगल jaṅgal _mc_ forest, wood 
+ घना जंगल  dense  forest  
+ पास का जंगल  nearby forest 
+ सरकारी  जंगल  goverment  forest
+
+(148)जज jaj _mc_ judge 
+ ज़िला जज  district  judge  
+ प्रधान जज  chief  judge  
+ सेशन जज  sessions  judge  
+ सिविल जज  civil  judge  
+
+(149)साल sāl _mc_ year 
+ अगला साल  next  year  
+ पहला साल  first  year  
+ पिछला साल  last  year  
+ ईस्वी साल  Christian  year  
+ चालू साल  current  year  
+
+(150)साहूकार sāhūkār _mc_ rich man, banker 
+ ईमानदार साहूकार  honest  banker  
+ कमीना साहूकार  mean  banker  
+ सम्पन्‍न साहूकार  prosperous  banker  
+ होशियार साहूकार  clever  banker
+
+(151)जबड़ा jab·ṛā _mc_ jaw 
+ ऊपरी/ऊपर का जबड़ा       upper jaw  
+ निचला/नीचे का जबड़ा       lower jaw 
+
+(152)जलूस jalūs _mc_ procession 
+ धार्मिक जलूस  religious  procession  
+ राजनीतिक जलूस  political  procession  
+
+(153)जहाज़ jahāz _mc_ ship 
+ तेज़ जहाज़  fast  ship  
+ बड़ा जहाज़  big  ship  
+ विदेशी जहाज़  foreign  ship  
+ समुद्री जहाज़  sea-ship  
+
+(154)सिंहासन siṅhāsan _mc_ throne 
+ ऊँचा सिंहासन  lofty  throne  
+ जड़ाऊ सिंहासन  jewelled  throne  
+ पैतृक सिंहासन  ancestral  throne  
+ भव्य सिंहासन  stately  throne  
+
+(155)ज़िला zilā _mc_ district 
+ छोटा ज़िला  small  district  
+ बड़ा ज़िला  big  district  
+
+(156)सिंगारदान siṅgār·dān _mc_ dressing case 
+ छोटा सिंगारदान  small  dressing case  
+ बड़ा सिंगारदान  big  dressing case  
+ लकड़ी का   सिंगारदान   wooden dressing case    
+
+(157)जूता jūtā _mc_ shoe 
+ गंदा जूता  dirty  shoe  
+ गीला जूता  wet  shoe  
+ तंग जूता  tight  shoe  
+ फटा-पुराना जूता  worn and torn  shoe  
+ फ़ैशनी जूता  fashionable  shoe  
+ बढ़ीया जूता  nice  shoe  
+ भारी जूता  heavy  shoe  
+ हलका जूता  light  shoe  
+
+(158)जेल jel _mc_ gaol, jail, prison 
+ अधीक्षक जेल  superintendent  prison  
+ कर्मचारी जेल  employee  prison  
+ नियमावली जेल  manual  prison  
+
+(159)जैकेट jāīkeṭ _mc_ jacket 
+ खुला जैकेट  loose  jacket  
+ तंग जैकेट  tight  jacket  
+ ऊनी जैकेट  woollen  jacket  
+ रेशमी जैकेट  silken  jacket  
+
+(160)जोगी jogī _mc_ ascetic 
+ योगी जोगी  standard is  ascetic    
+
+(161)ज्वालामुखी jvālāmukhī _mc_ volcano 
+ सक्रिय ज्वालामुखी  active  volcano  
+ शांत ज्वालामुखी  quiescent  volcano  
+
+(162)सिगनल sig·nal _mc_ signal 
+ दोहरा सिगनल  duplicate  signal  
+ बाहरी सिगनल  outer  signal  
+ सहकारी सिगनल  co-acting  signal 
+
+(163)सिगार sigār _mc_ cigar 
+ तेज़ सिगार  strong  cigar  
+ बढ़िया सिगार  fine  cigar  
+ हलका सिगार  mild  cigar   
+
+(164)झोंपड़ा jhõp·ṛā _mc_ hut, shanty 
+ छोटा झोंपड़ा  small  shanty  
+ पुराना झोंपड़ा  old  shanty  
+
+(165)सिगरेट sig·reṭ _mc_ cigarette 
+ अनजला सिगरेट  unlighted  cigarette  
+ महँगा सिगरेट  expensive  cigarette  
+ मामूली सिगरेट  ordinary  cigarette  
+ सस्ता सिगरेट  cheap  cigarette  
+ हलका सिगरेट  mild/light  cigarette     
+
+(166)टमाटर ṭamāṭar _mc_ tomato 
+ कच्चा टमाटर  unripe  tomato  
+ लाल टमाटर  red  tomato  
+
+(167)टेलीफ़ोन ṭelīfon _mc_ telephone 
+ निजी टेलीफ़ोन  private  telephone  
+ सार्वजनिक टेलीफ़ोन  public  telephone  
+ स्थानीय टेलीफ़ोन  local  telephone  
+
+(168)टैक्स ṭāīks _mc_ tax 
+ थोड़ा टैक्स  small  tax  
+ भारी टैक्स  heavy  tax  
+
+(169)ट्रैक्टर ṭrāīkṭar _mc_ tractor 
+ भारी ट्रैक्टर  heavy  tractor  
+ हलका ट्रैक्टर  light  tractor  
+ देसी ट्रैक्टर  Indian  tractor  
+ विदेशी ट्रैक्टर  foreign  tractor  
+
+(170)ड्रम ḍram _mc_ barrel 
+ लकड़ी का ड्रम    wooden barrel   
+ गोला ड्रम  round  barrel  
+ भारी ड्रम  heavy  barrel  
+
+(171)तकिया takiyā _mc_ pillow 
+ छोटा तकिया  small  pillow  
+ बड़ा तकिया  big  pillow  
+ नरम तकिया  soft  pillow  
+ कड़ा तकिया  hard  pillow  
+
+(172)सिपाही sipāhī _mc_ soldier 
+ घायल सिपाही  wounded  soldier  
+ दिलेर सिपाही  bold  soldier  
+ निडर सिपाही  fearless  soldier  
+ बहादुर सिपाही  brave  soldier    
+
+(173)तथ्य tathya _mc_ fact, reality 
+ ऐतिहासिक तथ्य  historical  reality  
+ वास्तविक तथ्य  real/  reality   factual तथ्य 
+
+(174)सिर sir _mc_ head 
+ गोल सिर  round  head  
+ गंजा सिर  bald  head  
+ छोटा सिर  small  head  
+ नंगा सिर  bare  head  
+ भारी सिर  heavy  head  
+ साफ़ सिर  clean  head  
+
+(175)तागा tāgā _mc_ thread 
+ ऊनी तागा  woollen  thread  
+ रेशमी तागा  silken  thread  
+ सूती तागा  cotton  thread  
+ पतला तागा  thin  thread  
+ मोटा तागा  thick  thread  
+ पक्का तागा  strong  thread  
+
+(176)सुनार sunār _mc_ goldsmith 
+ ईमानदार सुनार  honest  goldsmith  
+ बेईमान सुनार  dishonest  goldsmith   
+
+(177)तारा¹ tārā _mc_ star 
+ चमकता तारा¹  bright  star  
+ ध्रुव तारा¹  load/pole  star  
+ प्रभात का तारा¹   morning  star 
+
+(178)ताल¹ tāl _mc_ pond, tank 
+ भरा हुआ ताल¹    full tank  
+ ख़ाली ताल¹  empty  tank  
+ सूखा ताल¹  dry  tank  
+
+(179)ताला tālā _mc_ lock 
+ भारी ताला  heavy  lock  
+ हलका ताला  light  lock  
+
+(180)तालू tālū _mc_ palate 
+ कठोर तालू  hard  palate   
+ कोमल तालू  soft  palate  
+ फटा हुआ तालू   cleft palate  
+
+(181)सुर sur _mc_ tune 
+ ऊँचा सुर  loud  tune  
+ नया सुर  new  tune  
+ मधुर सुर  melodious  tune   
+
+(182)तौलिया tāūliyā _mc_ towel 
+ गीला तौलिया  wet  towel  
+ सूखा तौलिया  dry  towel  
+ छोटा तौलिया  small  towel  
+ बड़ा तौलिया  big  towel  
+ सादा तौलिया  simple  towel  
+
+(183)थियेटर thiyeṭar _mc_ theatre 
+ नया थियेटर  new  theatre  
+ प्रसिद्ध थियेटर  famous  theatre  
+
+(184)दर्जन darjan _mc_ dozen 
+ अंडे दर्जन  eggs  dozen  
+ पेंसिलें दर्जन  pencils  dozen  
+ पुस्तकें दर्जन  books  dozen  
+ संतरे दर्जन  oranges  dozen  
+
+(185)दवाख़ाना davāḵẖānā _mc_ dispensary 
+ ख़ैराती दवाख़ाना  charitable  dispensary  
+ देहाती दवाख़ाना  rural  dispensary  
+ निजी दवाख़ाना  private  dispensary  
+
+(186)सूची-पत्र sūchī-patra _mc_ catalogue 
+ नया सूची-पत्र  new  catalogue  
+ विस्त़ृत सूची-पत्र  detailed  catalogue  
+ सचित्र सूची-पत्र  illustrated  catalogue 
+
+(187)दस्ताना dastānā _mc_ (hand) glove 
+ ऊनी दस्ताना  woollen  (hand) glove  
+ रेशमी दस्ताना  silken  (hand) glove  
+ चमड़े का दस्ताना   leather (hand) glove   
+ नया दस्ताना  new  (hand) glove  
+ पुराना दस्ताना  old  (hand) glove  
+
+(188)दस्तावेज़ dastāvez _mc_ deed, document 
+ कूटनीतिक दस्तावेज़  diplomatic document
+ गुप्त दस्तावेज़  secret  document  
+ झूठा दस्तावेज़  false  document  
+ सरकारी दस्तावेज़  official/government  document  
+
+(189)सूट¹ suṭ _mc_ suit 
+ ऊनी सूट¹  woollen  suit  
+ गरम सूट¹  warm  suit  
+ नीला सूट¹  blue  suit  
+ सूती सूट¹  cotton  suit  
+ तंग सूट¹  tight  suit  
+
+(190)सूटकेस sūṭ·kes _mc_ suit-case 
+ नया सूटकेस  new  suit-case  
+ पुराना सूटकेस  old  suit-case  
+ भारी सूटकेस  heavy  suit-case  
+ हल्का सूटकेस  light  suit-case  
+
+(191)सूराख sūrāḵẖ _mc_ hole 
+ गोल सूराख  round  hole  
+ गहरा सूराख  deep  hole  
+ बड़ा सूराख  big  hole   
+
+(192)दिल dil _mc_ heart 
+ कमज़ोर दिल  weak  heart  
+ पक्का दिल  strong  heart  
+ नरम दिल  soft  heart  
+ भारी दिल  heavy  heart  
+
+(193)दुश्मन dushman _mc_ foe, enemy 
+ ख़तरनाक दुश्मन  dangerous  enemy  
+ जानी दुश्मन  deadly  enemy  
+ दिली दुश्मन  hidden  enemy  
+
+(194)हैट hāīṭ _mc_ hat 
+ खुला हैट  loose  hat  
+ गंदा हैट  soiled/dirty  hat  
+ नरम हैट  soft  hat  
+ सोला हैट  sola  hat 
+
+(195)देश desh _mc_ land, country 
+ ठंडा देश  cold  country  
+ गमर देश  torrid  country  
+ परतंत्र देश  dependent  country  
+ पिछड़ा  हुआ देश   backward country   
+ बड़ा देश  big  country  
+ विकास-  शील देश   developing country   
+ विकसित देश  developed  country  
+ स्वतंत्र देश  independent/free  country  
+
+(196)दोस्त dost _mc_ friend 
+ असली दोस्त  real  friend  
+ गहरा/जिगरी दोस्त  close  friend  
+ नया दोस्त  new  friend  
+ पुराना दोस्त  old  friend  
+ सच्चा दोस्त  true  friend  
+
+(197)सेक्टर sekṭar _mc_ sector 
+ पब्लिक सेक्टर  public  sector  
+ प्राइवेट सेक्टर  private  sector  
+
+(198)सेट set _mc_ set 
+ पूरा सेट  full/complete  set  
+ बड़ा सेट  big  set  
+ सारा सेट  entire  set    
+
+(199)ध्रुव dhruv _mc_ pole 
+ उत्तरी ध्रुव  north  pole  
+ दक्षिणी ध्रुव  south  pole  
+
+(200)नथना nath·nā, नथुना nathunā _mc_ nostril 
+ दाहिना नथना  right  nostril  
+ बायाँ नथना  left  nostril  
+
+(201)सेनापति senāpati _mc_ commander of an army 
+ प्रधान सेनापति  chief commander of an army   
+ योग्य सेनापति  able commander of an army  
+ विजयी सेनापति  victorious commander of an army   
+ सर्वोच्च सेनापति  supreme commander of an army   
+
+(202)सेब seb _mc_ apple 
+ कच्चा सेब  unripe  apple  
+ कड़ा सेब  hard  apple  
+ पक्का सेब  ripe  apple  
+
+(203)सेवक sevak _mc_ attendant, servant 
+ ईमानदार सेवक  honest  servant  
+ घरेलू सेवक  domestic  servant  
+ परिश्रमी सेवक  diligent  servant  
+
+(204)नाटक nāṭak _mc_ play, drama 
+ एकांकी नाटक  one-act  drama  
+ नया नाटक  new  drama  
+ साहित्यिक नाटक  literary  drama  
+ सामाजिक नाटक  social  drama  
+ संपूर्ण नाटक  full  drama  
+
+(205)नाड़ा nāṛā _mc_ trouser-string 
+ रेशमी नाड़ा  silken  trouser-string  
+ सूती नाड़ा  cotton  trouser-string  
+
+(206)सोंटा sõṭā _mc_ cudgel 
+ मोटा सोंटा  thick  cudgel  
+ भारी सोंटा  heavy  cudgel   
+
+(207)निबंध nibandh _mc_ essay 
+ छोटा निबंध  short  essay  
+ लंबा निबंध  long  essay  
+ राजनीतिक निबंध  political  essay  
+ साहित्यिक निबंध  literary  essay  
+
+(208)नियम niyam _mc_ rule, principle 
+ कड़ा नियम  hard and fast  principle  
+ साधारण नियम  general  principle  
+ सामान्य नियम  common  principle  
+ स्थायी नियम  standing  principle  
+
+(209)स्कूल skūl _mc_ school 
+ आधुनिक स्कूल  modern  school  
+ छोटा स्कूल  small  school  
+ बड़ा स्कूल  big  school  
+ नया स्कूल  new  school  
+ निजी स्कूल  private  school  
+ सरकारी स्कूल  government  school
+
+(210)नौकर nāūkar _mc_ servant 
+ नया नौकर  new  servant   पुराना नौकर  old  servant  
+ सरकारी नौकर  government  servant  
+ निजी नौकर  personal  servant  
+
+(211)स्काउट skāuṭ _mc_ scout 
+ अनुभवी स्काउट  experienced  scout  
+ लंबा स्काउट  tall  scout  
+ स्वस्थ स्काउट  healthy  scout  
+ होशियार स्काउट  clever  scout      
+
+(212)पक्षी pakṣī _mc_ bird 
+ जलचर पक्षी  aquatic  bird  
+ गानेवाला पक्षी  singing  bird  
+ शिकारी पक्षी    bird of prey 
+
+(213)पच्चर pachchar _mc_ wedge 
+ इकहरा पच्चर  single  wedge  
+ दोहरा पच्चर  double  wedge  
+ बाँस का पच्चर   bamboo  wedge     
+ लकड़ी का पच्चर   wooden  wedge   
+
+(214)पत्थर patthar _mc_ stone 
+ कड़ा पत्थर  hard  stone  
+ छोटा पत्थर  small  stone  
+ बड़ा पत्थर  big  stone  
+ भारी पत्थर  heavy  stone  
+
+(215)पत्रकार patrakār _mc_ journalist 
+ फुर्तीला पत्रकार  active  journalist  
+ योग्य पत्रकार  able  journalist  
+
+(216)पद pad _mc_ post, office 
+ उच्च/ऊँचा पद  high  office  
+ उत्तरदायित्वपूर्ण पद  responsible  office  
+ स्थायी पद  permanent  office  
+
+(217)पदक padak _mc_ medal 
+ रजत पदक  silver  medal  
+ स्वर्ण पदक  gold  medal  
+ राष्ट्रीय पदक  national  medal  
+
+(218)पर³ par _mc_ feather 
+ काला पर³  black  feather  
+ सफ़ेद पर³  white  feather  
+ हलका पर³  light  feather  
+
+(219)स्टाल sṭāl _mc_ stall 
+ ख़ाली स्टाल  empty  stall  
+ छोटा स्टाल  small  stall  
+ बड़ा स्टाल  big  stall  
+ साफ़ स्टाल  clean  stall 
+
+(220)परदेशी par·deshī _mc_ foreigner, stranger 
+ नया-नया परदेशी  new  stranger, newly-arrived stranger
+ पूरा परदेशी  absolute  stranger  
+
+(221)स्टेशन sṭeshan _mc_ station 
+ बड़ा स्टेशन  main  station  
+ मुख्य स्टेशन  chief  station  
+ रास्ते का स्टेशन    intermediate station
+
+(222)परिवर्तन parivartan _mc_ change 
+ आवश्यक परिवर्तन  necessary  change  
+ क्रमिक परिवर्तन  gradual  change  
+ भारी परिवर्तन  great  change  
+ शारीरिक परिवर्तन  physical  change  
+ सामाजिक परिवर्तन  social  change  
+
+(223)परिवार parivār _mc_ family 
+ बड़ा परिवार  large  family  
+ संयुक्‍त परिवार  joint  family  
+
+(224)पर्व parva _mc_ festival 
+ धार्मिक पर्व  religious  festival  
+ राष्ट्रीय पर्व  national  festival  
+
+(225)पलँग palãg _mc_ bed-stead 
+ गुदगुदा पलँग  soft  bed-stead  
+ स्प्रिंगदार पलँग  springed  bed-stead  
+
+(226)पलँगपोश palãg·posh _mc_ bed- sheet 
+ रेशमी पलँगपोश  silken  bed-sheet  
+ सूती पलँगपोश  cotton  bed-sheet  
+
+(227)स्टोर sṭor _mc_ store 
+ छोटा-सा स्टोर  small  store  
+ फ़ौजी स्टोर  military  store  
+ बड़ा भारी स्टोर    vast store 
+
+(228)पहिया pahiyā _mc_ wheel 
+ अगला पहिया  front  wheel  
+ पिछला पहिया  back  wheel  
+ टायरदार पहिया  tyred  wheel  
+ दाँतेदार पहिया  dented  wheel  
+
+(229)पाँव pã̄v _mc_ foot 
+ दोहिना पाँव  right  foot  
+ बाँया पाँव  left  foot  
+
+(230)पाखंड pākhaṇḍ _mc_ hypocrisy, dissimulation 
+ धार्मिक पाखंड  religious  dissimulation  
+ राजनीतिक पाखंड  political  dissimulation  
+ संसारी पाखंड  worldly  dissimulation  
+
+(231)पाजामा pājāmā _mc_ pyjamas 
+ खुला पाजामा  loose pyjamas   
+ तंग पाजामा  tight  pyjamas  
+
+(232)पुत्र putra _mc_ son 
+ एकमात्र पुत्र  only  son  
+ छोटा पुत्र  younger  son  
+ बड़ा पुत्र  elder  son  
+ ज्येष्ठ पुत्र  eldest  son  
+
+(233)पुरस्कार puraskār _mc_ prize, reward 
+ प्रथम पुरस्कार  first  reward  
+ द्वितीय पुरस्कार  second  reward  
+ तृतीय पुरस्कार  third  reward  
+
+(234)पुल pul _mc_ bridge 
+ नया पुल  new  bridge  
+ लकड़ी का पुल   wooden  bridge  
+ लटकता/झूलता पुल  hanging  bridge  
+
+(235)पुस्तकालय pustakālay _mc_ library 
+ गश्ती/सचल पुस्तकालय  circulating  library  
+ निजी पुस्तकालय  private  library  
+ सार्वजनिक पुस्तकालय  public  library  
+
+(236)पूँजीपति pū̃jītī _mc_ capitalist 
+ भारी पूँजीपति  big  capitalist  
+ सामान्य पूँजीपति  ordinary  capitalist  
+
+(237)स्प्रिंग spriṅg _mc_ spring 
+ खुला स्प्रिंग  open  spring  
+ बंद स्प्रिंग  closed  spring  
+
+(238)स्त्रोत srot _mc_ source 
+ ऐतिहासिक स्त्रोत  historical  source  
+ प्रामाणिक स्त्रोत  authoritative  source   
+ मुख्य स्त्रोत  chief  source  
+ विश्‍वसनीय स्त्रोत  reliable  source  
+
+(239)पृष्ठ¹ priṣṭha _mc_ page 
+ पहला पृष्ठ¹  first  page  
+ अंतिम पृष्ठ¹  last  page  
+ पाँचवाँ पृष्ठ¹  fifth  page  
+
+(240)पेंट pēṭ _mc_ paint 
+ ताज़ा पेंट  fresh  paint  
+ पीला पेंट  yellow  paint  
+ लाल पेंट  red  paint  
+ हरा पेंट  green  paint  
+
+(241)पेंटर pẽṭr _mc_ painter 
+ कुशल पेंटर  skilled  painter  
+ नया पेंटर  new  painter  
+ पुराना पेंटर  old  painter  
+
+(242)पेड़ peṛ _mc_ tree 
+ ऊंचा पेड़  tall  tree  
+ छोटा पेड़  small  tree  
+
+(243)पोस्टर posṭar _mc_ poster 
+ सचित्र पोस्टर  illustrated  poster  
+ सिनेमा का  पोस्टर   cinema poster  
+
+(244)पौधा pāūdhā _mc_ plant 
+ उपयोगी पौधा  useful  plant  
+ जंगली पौधा  wild  plant  
+ आम का पौधा    mango plant    
+ गुलाब का पौधा     rose plant   
+ गेहूँ का  पौधा   wheat plant    
+
+(245)प्याज़ pyāz _mc_ onion 
+ कच्चा प्याज़  unripe  onion  
+ हरा प्याज़  green  onion  
+ सफ़ेद प्याज़  white  onion  
+ लाल प्याज़  red  onion  
+
+(246)प्यानो pyāno _mc_ piano 
+ छोटा प्यानो  small/cottage  piano  
+ बड़ा प्यानो  grand  piano  
+
+(247)प्रतिनिधि pratinidhi _mc_ representative 
+ निर्वाचित प्रतिनिधि  elected  representative  
+ विशेष प्रतिनिधि  special  representative  
+ राजनीतिक प्रतिनिधि  political  representative  
+ स्थायी प्रतिनिधि  permanent  representative  
+
+(248)प्रतिबंध pratibandh _mc_ restriction, ban 
+ राजनीतिक प्रतिबंध  political  ban  
+ व्यापारिक प्रतिबंध  trade  ban  
+ कठोर प्रतिबंध  rigid  ban  
+
+(249)प्रमाण pramāṇ _mc_ proof 
+ अकाट्य प्रमाण  indisputable  proof  
+ भारी प्रमाण  ample  proof  
+ स्पष्ट प्रमाण  clear  proof  
+
+(250)प्रमाण-पत्र pramāṇ-patra _mc_ certificate 
+ डाक्‍टरी प्रमाण-पत्र  medical  certificate  
+ मूल प्रमाण-पत्र  original  certificate  
+
+(251)प्रयत्न prayatna, प्रयास prayās _mc_ effort, endeavour 
+ असफल/विफल प्रयत्न  vain  endeavour  
+ सफल प्रयत्न  successful  endeavour  
+ कड़ा प्रयत्न  tenacious  endeavour  
+ भारी प्रयत्न  great  endeavour  
+
+(252)प्रयोजन prayojan _mc_ purpose 
+ ऊँचा प्रयोजन  lofty  purpose  
+ मुख्य प्रयोजन  chief  purpose  
+ घरेलू प्रयोजन  domestic  purpose  
+
+(253)प्रशासक prashāsak _mc_ administrator 
+ भ्रष्ट प्रशासक  corrupt  administrator  
+ अयोग्य प्रशासक  incapable  administrator  
+ योग्य प्रशासक  able  administrator  
+ कुशल प्रशासक  efficient  administrator  
+
+(254)प्रसंग prasaṅg _mc_ context, topic 
+ दुःखद प्रसंग  sorrowful  topic  
+ नया प्रसंग  new  topic  
+
+(255)प्रेमी premī _mc_ lover 
+ निराश प्रेमी  dejected  lover  
+ बाँका प्रेमी  youthful  lover  
+ मनचला प्रेमी  frivolous  lover  
+ सच्चा प्रेमी  true  lover  
+ हठी प्रेमी  persistent  lover  
+
+(256)प्रोफ़ेसर profesar _mc_ professor 
+ अवकाश प्राप्त प्रोफ़ेसर    retired professor 
+ परिश्रमी प्रोफ़ेसर  studious   professor  
+ प्रसिद्ध प्रोफ़ेसर  renowned   professor  
+ विद्वान् प्रोफ़ेसर  learned   professor  
+
+(257)प्लैटफ़ार्म plāīṭfārm _mc_ platform (chiefly at railway station) 
+ ख़ाली प्लैटफ़ार्म  empty  platform (chiefly at railway station)  
+ तंग प्लैटफ़ार्म  narrow  platform (chiefly at railway station)  
+ लंबी प्लैटफ़ार्म  long  platform (chiefly at railway station)  
+
+(258)फ़क़ीर faqīr _mc_ mendicant (particularly a Muslim), faqir 
+ चलाता-फिरता फ़क़ीर  wandering  faqir  
+ निर्धन फ़क़ीर  penniless  faqir  
+
+(259)फट्टा phaṭṭā _mc_ plank 
+ गला- सड़ा  फट्टा   rotten  plank   
+ चौड़ा फट्टा  broad  plank  
+ पक्का फट्टा  strong  plank  
+ लंबा फट्टा  long  plank  
+
+(260)फफोला phapholā _mc_ boil, blister 
+ घिनावना फफोला  hideous  blister  
+ छोटा सा फफोला    tiny blister     
+ उभरता हुआ फफोला    erupting  blister   
+
+(261)फ़रिश्ता farishtā _mc_ angel 
+ दयालु फ़रिश्ता  compassionable  angel  
+ नेक फ़रिश्ता  gentle  angel  
+ नरम-दिल  फ़रिश्ता    soft-hearted  angel  
+
+(262)फ़र्ज¹ farza _mc_ duty 
+ कड़ा फ़र्ज¹  stern  duty  
+ ख़ास फ़र्ज¹  particular/special  duty  
+ ठीक फ़र्ज¹  right  duty  
+
+(263)फ़र्श farsha _mc_ floor 
+ खुला फ़र्श  expansive  floor  
+ टाइलवाला फ़र्श  tiled  floor  
+ टूटा-फटा फ़र्श  dilapidated  floor  
+ पक्का फ़र्श  cemented  floor  
+
+(264)फाटक phāṭak _mc_ gate 
+ खुला फाटक  open  gate  
+ बंद फाटक  closed  gate  
+ पश्चिमी फाटक  western  gate  
+ पूर्वी फाटक  eastern  gate  
+ लकड़ी का फाटक    wooden gate    
+ लोहे का फाटक    iron gate    
+
+(265)फ़ारम¹ fāram, फ़ार्म fārm _mc_ form 
+ आर्डर फ़ारम¹  order  form  
+ कोरा फ़ारम¹  blank  form  
+ दोहरा फ़ारम¹  duplicate  form  
+ निर्धारित फ़ारम¹  prescribed  form  
+
+(266)फ़ारम² fāram, फ़ार्म fārm _mc_ farm 
+ खेती  के  लिए फ़ारम²  agricultural  farm  
+ मुर्ग़ियों का फ़ारम²    poultry farm 
+ जुता हुआ   फ़ारम²  tilled farm    
+ सरकारी फ़ारम²  government  farm  
+ सहकारी फ़ारम²  co-operative  farm  
+
+(267)स्लाइड slāiḍ _mc_ slide 
+ रंगीन स्लाइड  colour  slide  
+ प्लास्टिक का स्लाइड    plastic slide    
+ शीशे  का स्लाइड   glass slide    
+ साधारण स्लाइड  ordinary  slide  
+
+(268)स्वप्न svapna _mc_ dream 
+ झूठा स्वप्न  false  dream  
+ भयानक स्वप्न  dreadful  dream  
+ विचित्र स्वप्न  strange  dream  
+
+(269)स्वभाव svabhāv _mc_ nature, temperament 
+ कड़ा स्वभाव  severe  temperament  
+ चंचल स्वभाव  unstable  temperament  
+ शान्त स्वभाव  calm  temperament  
+ सरल स्वभाव  straight-forward  temperament   
+ सीधा स्वभाव  upright  temperament 
+ 
+(270)फेफड़ा pheph·ṛā _mc_ lung 
+ दाहिना फेफड़ा  right  lung  
+ बायाँ फेफड़ा  left  lung  
+
+(271)फ़ैशन fāīshan _mc_ fashion 
+ नया फ़ैशन  new  fashion  
+ पुराना फ़ैशन  old  fashion  
+ बढ़िया फ़ैशन  excellent  fashion  
+ बदलता फ़ैशन  changing  fashion  
+ वही फ़ैशन  same  fashion  
+
+(272)फ़ोटो foṭo, फ़ोटोग्राफ़ foṭogrāf _mc_ photo, photograph 
+ पासपोर्ट  साईज़  का फ़ोटो  passport-size  photograph  
+ पुराना फ़ोटो  old  photograph  
+ बड़ा फ़ोटो  large  photograph  
+ रंगीन फ़ोटो  coloured  photograph  
+ साफ़ फ़ोटो  clear  photograph  
+
+(273)फ़ोटोग्राफ़र foṭogrāfar _mc_ photographer 
+ प्रसिद्ध फ़ोटोग्राफ़र  famous  photographer  
+ होशियार फ़ोटोग्राफ़र  clever  photographer  
+
+(274)फोड़ा phoṛā _mc_ abscess 
+ घातक फोड़ा  fatal  abscess  
+ भयानक फोड़ा  monstrous  abscess  
+
+(275)फ्राक frāk _mc_ frock 
+ चुस्त फ्राक  smart  frock  
+ खुला फ्राक  loose  frock  
+ तंग फ्राक  tight  frock  
+ फ़ैशनी फ्राक  fashionable  frock  
+
+(276)बंडल banḍal _mc_ bundle 
+ फ़ीतेवाला बंडल  ribboned  bundle  
+ बँधा हुआ बंडल     tied bundle  
+ भारी बंडल  heavy  bundle  
+
+(277)बंदरगाह bandar·gāh _mc_ sea-port, harbour 
+ अंतर्राष्ट्रीय बंदरगाह  international  harbour  
+ खुला बंदरगाह  expansive  harbour  
+ छोटा बंदरगाह  small  harbour  
+
+(278)बकस bakas, बकसा bak·sā _mc_ box 
+ खुला बकस  open  box  
+ बंद बकस  locked  box  
+ ख़ाली बकस  empty  box  
+ भरा हुआ बकस    full box 
+ टीन का बकस   tin box  
+ लकड़ी  का बकस   wooden box   
+
+(279)बक्स baks _mc_ box 
+ भारी बक्स  heavy  box  
+ हलका बक्स  light  box  
+ लोहे का बक्स    steel box 
+
+(280)बगला bag·lā _mc_ heron 
+ लंबी गरदन  वाला बगला  long-necked  heron  
+ लंबी चोंच  वाला बगला  long-beaked  heron 
+
+(281)बग़ीचा baGīchā _mc_ small garden 
+ निजी बग़ीचा  private  small garden  
+ शान्त बग़ीचा  calm  small garden  
+ शानदार बग़ीचा  magnificent  small garden  
+
+(282)बछेड़ा bachheṛā बछेरा bacherā _mc_ colt 
+ काला बछेड़ा  black  colt  
+ सफ़ेद बछेड़ा  white  colt  
+ जवान बछेड़ा  youthful  colt  
+
+(283)बज़ाज़ bazāz _mc_ cloth merchant, draper 
+ ईमानदार बज़ाज़  honest  draper  
+ ठग बज़ाज़  cheat  draper  
+
+(284)बटन baṭan _mc_ button 
+ चौड़ा बटन  flat  button  
+ गोल बटन  round  button  
+ चमकता बटन  glittering  button  
+
+(285)व्रटमार baṭ·mār _mc_ robber 
+ ख़ूनी व्रटमार  bloody  robber  
+ डरावना व्रटमार  dreadful  robber  
+
+(286)बटुआ baṭuā, बटुवा buṭuvā _mc_ purse, money bag 
+ ख़ूब भरा  हुआ बटुआ  well-filled  money bag  
+ बंद बटुआ  shut  money bag  
+ भारी बटुआ  heavy  money bag  
+ हलका बटुआ  light  money bag  
+
+(287)बढ़ई baṛhaī _mc_ carpenter 
+ ग्रामीण बढ़ई  village  carpenter  
+ पुराना बढ़ई  veteran  carpenter  
+ होशियार बढ़ई  clever  carpenter  
+
+(288)बदन badan _mc_ body 
+ गठीला बदन  sturdy  body  
+ चुस्त बदन  agile  body  
+ नाज़ुक बदन  delicate  body  
+ गदा बदन  dirty/unclean  body  
+ घायल बदन  wounded  body  
+ मोटा बदन  fat  body  
+
+(289)बनिया baniyā _mc_ grocer 
+ कंजूस बनिया  miserly  grocer  
+ स्वार्थी बनिया  selfish  grocer  
+
+(290)बम bam _mc_ bomb, shell 
+ ऐटमी/परमाणु  बम    atom shell/bomb  
+ गैस बम  gas  shell/bomb  
+ दाहक बम  incendiary  shell/bomb  
+ भारी बम  heavy  shell/bomb  
+ हलका बम  light  shell/bomb  
+
+(291)वरतन bar·tan _mc_ pot, utensil 
+ ताँबे का  वरतन   copper utensil    
+ पीतल का वरतन    brass utensil   
+ मिट्टी का  वरतन    earthen utensil  
+ पीने का वरतन    drinking utensil  
+ खाने का  वरतन    eating  utensil  
+ पकाने का  वरतन   cooking utensil   
+ धोने का वरतन    washing utensil  
+
+(292)स्वयंसेवक svayamsevak _mc_ volunteer 
+ अथक स्वयंसेवक  tireless  volunteer  
+ उत्साही स्वयंसेवक  zealous  volunteer  
+ निडर स्वयंसेवक  fearless  volunteer  
+ वीर स्वयंसेवक  brave  volunteer                
+
+(293)स्वेटर sveṭar _mc_ sweater 
+ ऊनी स्वेटर  woollen  sweater  
+ विदेशी स्वेटर  foreign  sweater 
+
+(294)बवंडर bavanḍar _mc_ whirlwind, cyclone 
+ आनेवाला बवंडर  impending  cyclone  
+ घातक बवंडर  fatal  cyclone  
+ भयानक बवंडर  horrible  cyclone  
+ विनाशकारी बवंडर  destructive  cyclone  
+
+(295)हंस hans _mc_ swan 
+ काला हंस  black  swan  
+ सफ़ेद हंस  white  swan  
+ तैरता हुआ हंस      floating swan 
+
+(296)बाग़ bāG _mc_ garden 
+ खुला बाग़  spacious  garden  
+ छोटा बाग़  tiny  garden  
+ निजी बाग़  private  garden  
+ बड़ा बाग़  large  garden  
+ शाही बाग़  stately  garden  
+
+(297)बाघ bāgh _mc_ tiger 
+ धब्बेदार/चित्तीदार बाघ  spotted  tiger  
+ धारीदार बाघ  striped  tiger  
+ तेज़ बाघ  swift  tiger  
+
+(298)बाज़ार bāzār _mc_ market (place) 
+ खुला बाज़ार  open  market (place)  
+ चौड़ा बाज़ार  wide  market (place)  
+ नया बाज़ार  new  market (place)  
+ बड़ा बाज़ार  big  market (place)  
+
+(299)हकीम hakīm _mc_ physician, hakim 
+ पुराना हकीम  old  hakim  
+ योग्य हकीम  able  hakim  
+ समझदार हकीम  wise  hakim 
+
+(300)बाण bāṇ _mc_ arrow 
+ घातक बाण  deadly  arrow  
+ तेज़ बाण  sharp  arrow  
+ नुकीला बाण  pointed  arrow  
+ ज़हरीला/विषैला   बाण   poisoned arrow    
+
+(301)बादल bādal _mc_ cloud 
+ काला बादल  dark  cloud  
+ सफ़ेद बादल  white  cloud  
+ घना बादल  thick  cloud  
+ पतला बादल  thin  cloud  
+
+(302)हज haj _mc_ pilgrimage (to Mecca) 
+ पहला हज  previous  pilgrimage (to Mecca)  
+ पिछला हज  last  pilgrimage (to Mecca)  
+ सालाना हज  annual  pilgrimage (to Mecca)   
+
+(303)बालक bālak _mc_ boy 
+ नटखट बालक  naughty boy  
+ नन्हा बालक  tiny  boy  
+
+(304)होंठ hõṭh _mc_ lip 
+ ऊपरी होंठ  upper lip  
+ निचला होंठ  lower lip   
+ कोमल होंठ  tender lip  
+ गुलाबी होंठ  rosy lip   
+
+(305)बिस्कृट biskuṭ _mc_ 
+ कुरकुरा/ख़स्ता बिस्कृट  crisp   
+ नमकीन बिस्कृट  salty   
+ मीठा बिस्कृट  sweet   
+ स्वादी बिस्कृट  delicious   
+
+(306)बिस्तर bistar _mc_ bed, bedding 
+ आरामदेह बिस्तर  comfortable  bedding  
+ नरम बिस्तर  soft  bedding  
+
+(307)बीज bīj _mc_ seed 
+ छोटा-सा बीज  tiny  seed  
+ विदेशी बीज  foreign  seed  
+ बढ़िया बीज  best  seed  
+
+(308)बुरुश burush _mc_ brush 
+ कड़ा बुरुश  hard  brush  
+ नरम बुरुश  soft  brush  
+ प्लास्टिक का बुरुश    plastic brush
+
+(309)बूट būṭ _mc_ boot 
+ चमड़े का बूट    leather boot   
+ रबड़ का बूट    rubber boot   
+ फ़ौजी बूट  military  boot  
+
+(310)बेटा beṭā _mc_ son 
+ इकलौता बेटा  only  son  
+ आज्ञाकारी बेटा  obedient  son  
+ योग्य बेटा  able  son  
+
+(311)बेर ber _mc_ jujube plum 
+ मीठे बेर  sweet  jujube plum  
+ खट्टे बेर  sour  jujube plum  
+ कच्चे बेर  unripe  jujube plum  
+ पके बेर  ripe  jujube plum  
+
+(312)बैंक bāīṅk _mc_ bank 
+ अंतर्राष्ट्रीय बैंक  international  bank  
+ अनुसूचित बैंक  scheduled  bank  
+ औद्योगिक बैंक  industrial  bank  
+ केंद्रीय बैंक  central  bank  
+ राज़कीय बैंक  state  bank  
+ वाणिज्य बैंक  commercial  bank  
+
+(313)बैग bāīg _mc_ bag 
+ ख़ाली बैग  empty  bag  
+ खुला बैग  open  bag  
+ भारी बैग  heavy  bag  
+ नीला बैग  blue  bag  
+ लाल बैग  red  bag  
+
+(314)बैलून bāīlūn _mc_ balloon 
+ गैसवाला बैलून  gaseous  balloon  
+ तैरता हुआ बैलून    floating balloon  
+ बड़ा भारी  बैलून   gigantic balloon    
+
+(315)बोरा borā _mc_ bag, sack 
+ ख़ाली बोरा  empty  sack  
+ पूरा बोरा  full  sack  
+ बड़ा बोरा  large  sack  
+ भारी बोरा  heavy  sack  
+
+(316)ब्राह्मण brāhmaṇ _mc_ Brahmin (priestly and teaching class among Hindus) 
+ पूज्य ब्राह्मण  venerable  Brahmin (priestly and teaching class among Hindus)  
+ विद्वान ब्राह्मण  scholarly  Brahmin (priestly and teaching class among Hindus)  
+
+(317)ब्लाउज़ blāuz _mc_ blouse 
+ नीला ब्लाउज़  blue  blouse  
+ पीला ब्लाउज़  yellow  blouse  
+ लाल ब्लाउज़  red  blouse  
+ हरा ब्लाउज़  green  blouse  
+ सूती ब्लाउज़  cotton  blouse  
+ रेशमी ब्लाउज़  silk  blouse  
+ ऊनी ब्लाउज़  woollen  blouse  
+
+(318)भंडार bhanḍār _mc_ store (house) 
+ अन्‍न का  भंडार   grain store (house)   
+ तेल का  भंडार   oil store (house)    
+ सब्ज़ी का  भंडार   vegetable store (house)    
+ सहकारी भंडार  co-operative  store (house)  
+
+(319)भंडारा bhanḍārā _mc_ public feast 
+ अनन्त भंडारा  unending  public feast  
+ लगातार भंडारा  continuous  public feast  
+
+(320)भँवर bhãvar _mc_ whirlpool 
+ झागदार भँवर  foamy  whirlpool  
+ लगातार भँवर  continuous  whirlpool  
+
+(321)हत्यारा hatyārā _mc_ murderer, assaissin 
+ नामी हत्यारा  notorious  assaissin  
+ बुज़दिल हत्यारा  coward  assaissin  
+ दिलेर हत्यारा  daring  assaissin  
+
+(322)भजन bhajan _mc_ hymn, devotional song 
+ सुरीला भजन  tuneful  devotional song  
+ भावपूर्ण भजन  sentimental  devotional song  
+ मीठा भजन  sweet  devotional song  
+
+(323)हथियार hathiyār _mc_ weapon, arms 
+ घातक हथियार  lethal/fatal  arms  
+ छोटा हथियार  small  arms  
+
+(324)भबन bhavan _mc_ building, mansion 
+ आधुनिक भबन  modern  mansion  
+ ऊँचा भबन  high  mansion  
+ प्राचीन भबन  ancient  mansion  
+ भव्य भबन  grand/imposing  mansion  
+ सुन्दर भबन  beautiful  mansion  
+
+(325)भाई bhāī _mc_ brother 
+ छोटा भाई  younger  brother  
+ बड़ा भाई  elder  brother  
+ मँझला भाई  middle  brother  
+ प्यारा भाई  affectionate  brother  
+ सगा भाई  real  brother  
+ सौतेला भाई  step  brother  
+
+(326)भाला bhālā _mc_ lance, spear 
+ ख़ूनी भाला  bloody  spear  
+ चौड़ा भाला  broad  spear  
+ चमकता भाला  glittering  spear  
+
+(327)भालू bhalū _mc_ bear 
+ सिधाया भालू  हुआ  tamed bear 
+ बड़ा भारी भालू    huge bear 
+ बदमाश भालू  vicious  bear  
+ मक्कार भालू  crafty  bear  
+
+(328)भाव² bhāv _mc_ rate 
+ उचित भाव²  reasonable  rate  
+ थोक भाव²  wholesale  rate  
+ बाज़ार भाव²  market  rate  
+
+(329)भाषण bhāṣaṇ _mc_ speech, lecture 
+ निरर्थक भाषण  meaningless  lecture  
+ लंबा भाषण  long  lecture  
+ वैज्ञानिक भाषण  scientific  lecture  
+
+(330)भ़ेड़िया bheṛiyā _mc_ wolf 
+ भूखा भ़ेड़िया  hungry  wolf  
+ चालाक भ़ेड़िया  shrewd  wolf  
+ डरावना भ़ेड़िया  dreadful  wolf  
+
+(331)भेदया bhediyā _mc_ detective, spy 
+ निजी भेदया  private  spy  
+ सरकारी भेदया  government  spy  
+
+(332)मंत्रालय mantrālay _mc_ ministry 
+ उद्योग मंत्रालय  labour  ministry  
+ कृषि मंत्रालय  agriculture  ministry  
+ खाद्य मंत्रालय  food  ministry  
+ गृह मंत्रालय  home  ministry  
+ रक्षा मंत्रालय  defence  ministry  
+ रेल मंत्रालय  railway  ministry  
+ वाणिज्य मंत्रालय  commerce  ministry  
+ वित्त मंत्रालय  finance  ministry  
+ विदेश मंत्रालय  foreign  ministry  
+ विधि मंत्रालय  law  ministry  
+ शिक्षा मंत्रालय  education  ministry  
+ संचार मंत्रालय  communication  ministry  
+
+(333)मंत्रि-मंडल mantri-manḍal _mc_ ministry, cabinet of ministers 
+ अक्षम मंत्रि-मंडल  incompetent  cabinet of ministers  
+ उदार मंत्रि-मंडल  liberal  cabinet of ministers  
+ भ्रष्ट मंत्रि-मंडल  corrupt  cabinet of ministers  
+
+(334)मंदिर mandir _mc_ temple 
+ टूटा-फूटा मंदिर  shattered  temple  
+ प्राचीन मंदिर  ancient  temple  
+
+(335)मंसूबा mansūbā _mc_ plan, contrivance 
+ पक्का मंसूबा  strong  contrivance  
+ गहारा मंसूबा  deep  contrivance  
+
+(336)मकड़ा mak ṛā _mc_ (large) spider 
+ गंदा मकड़ा  ugly  (large) spider  
+ फुला-फुला मकड़ा  bloated  (large) spider  
+
+(337)मकान makān _mc_ house 
+ ऊँता मकान  high  house  
+ गंदा मकान  ugly  house  
+ छोटा-सा मकान  little  house  
+ पास/बग़ल  का मकान    adjacent  house  
+ नया मकान  new  house  
+ पक्का मकान  brick-built  house  
+ रहने  का मकान      residential house 
+ साफ़-सुथरा मकान  neat and clean  house  
+ हवादार मकान  ventilated  house  
+
+(338)मकान-मालिक makān-mālik _mc_ house-owner, landlord 
+ कंजुस मकान-मालिक  miserly  landlord  
+ उदार मकान-मालिक  liberal  landlord  
+ बदमाश मकान-मालिक  mischievous  landlord  
+
+(339)मज़दूर maz·dūr _mc_ labourer 
+ अकुशल मज़दूर  unskilled  labourer  
+ औद्योगिक मज़दूर  industrial  labourer  
+ दैनिक मज़दूर  daily  labourer  
+ खेतिहर मज़दूर  agricultural  labourer  
+ परिश्रमी मज़दूर  diligent  labourer  
+
+(340)मज़ाक़ mazāq _mc_ fun, joke 
+ अच्छा मज़ाक़  good  joke  
+ गहरा मज़ाक़  grave  joke  
+ पुराना मज़ाक़  old  joke  
+
+(341)मटका maṭ·kā _mc_ pitcher 
+ ख़ाली मटका  empty  pitcher  
+ भरा  हुआ मटका   full pitcher
+
+(342)मटर maṭar _mc_ pea(s) 
+ हरे मटर  green  pea(s)  
+ सूखे मटर  dry  pea(s)  
+
+(343)मनोरंजन manorañjan _mc_ recreation, entertainment 
+ अनन्‍त मनोरंजन  endless  entertainment  
+ मुख्य मनोरंजन  chief  entertainment  
+ स्वस्थ मनोरंजन  wholesome  entertainment  
+
+(344)मल्लाह mallāh _mc_ boatman 
+ निपुण मल्लाह  deft  boatman  
+ अनुभवी मल्लाह  experienced  boatman  
+ पुराना मल्लाह  veteran  boatman  
+ सावधान मल्लाह  cautious  boatman  
+
+(345)मसूड़ा masūṛā _mc_ gum(s) 
+ पिल- पिला मसूड़ा    spongy gum(s)    
+ पोपला मसूड़ा  toothless  gum(s)  
+
+(346)महल mahal _mc_ palace 
+ टूटा-फूटा महल  shattered  palace  
+ शानदार महल  magnificent  palace  
+ शाही महल  royal  palace  
+
+(347)महाजन mahājan _mc_ money-lender, banker 
+ ईमानदार महाजन  honest  banker  
+ ओच्छा महाजन  mean  banker  
+ धनी महाजन  rich  banker  
+ सम्पन्‍न महाजन  prosperous  banker  
+
+(348)महावत mahāvat _mc_ mahout, elephant-driver 
+ कुशल महावत  efficient  elephant-driver  
+ समझदार महावत  wise  elephant-driver  
+ पुराना महावत  old  elephant-driver  
+
+(349)महीना mahīnā _mc_ month 
+ अगला महीना  next  month  
+ पिछला महीना  last  month  
+ आनेवाला महीना  ensuing  month  
+ पहला महीना  first  month  
+
+(350)महोत्सव Mahotsav _mc_ festivity, celebrations 
+ जन्म महोत्सव  birth  celebrations  
+ वार्षिक महोत्सव  annual  celebrations  
+
+(351)माँडल moḍal _mc_ model 
+ देहाती माँडल  rustic  model  
+ बढ़िया माँडल  excellent  model  
+ मशीनी माँडल  mechanical  model  
+
+(352)माथा māthā _mc_ forehead 
+ ऊँचा माथा   high forehead
+ चौड़ा माथा  broad  forehead  
+ तंग माथा  narrow  forehead  
+ झुर्रीदार माथा  wrinkled  forehead  
+
+(353)माध्यम mādhyam _mc_ medium
+ उपयुक्‍त माध्यम  suitable  media  
+ उत्तम माध्यम  best  media 
+ विचित्र माध्यम  strange  media  
+
+(354)मानदंड mān·daṇḍa _mc_ standard, yard-stick 
+ एक मानदंड  single  yard-stick  
+ कड़ा मानदंड  rigid  yard-stick  
+ नैतिक मानदंड  moral  yard-stick  
+ बदले हुए मानदंड    altered yard-stick 
+
+(355)मामा māmā _mc_ (maternal) uncle 
+ छोटा मामा  younger  (maternal) uncle  
+ बड़ा मामा  elder  (maternal) uncle  
+ सगा मामा  real  (maternal) uncle  
+
+(356)हथौड़ा hathāūṛā _mc_ hammer 
+ बड़ा हथौड़ा  big  hammer  
+ भारी हथौड़ा  heavy  hammer   
+
+(357)मार्केट mārkeṭ _mc_ market 
+ खुला मार्केट  open  market  
+ नया मार्केट  new  market  
+ बड़ा मार्केट  भारी  market   huge मार्केट 
+
+(358)माल-डिब्बा māl·ḍibbā _mc_ wagon 
+ पुराना माल-डिब्बा  old  wagon  
+ रेल का माल-डिब्बा    railway wagon
+
+(359)हफ़्ता haftā _mc_ week 
+ आनेवाला हफ़्ता  coming  week  
+ पहला हफ़्ता  previous/first  week  
+ पिछला हफ़्ता  last  week
+
+(360)मिक्सचर miks·char _mc_ mixture 
+ कड़ुवा मिक्सचर  bitter  mixture  
+ गाढ़ा मिक्सचर  thick  mixture  
+ मीठा मिक्सचर  sweet  mixture  
+
+(361)मिशन mishan _mc_ mission 
+ ईसाई मिशन  Christian  mission  
+ चीनी मिशन  Chinese  mission  
+ व्यापारी मिशन  trade  mission  
+ सरकारी मिशन  government  mission  
+
+(362)मीनार mīnār _mc_ minaret, tower 
+ ऊँचा मीनार  high  tower  
+ टूटता मीनार  crumbling  tower  
+ पुराना मीनार  old  tower  
+
+(363)मुअक्किल muakkil _mc_ (lawyer's) client 
+ अमीर मुअक्किल  rich  (lawyer's) client  
+ पुराना मुअक्किल  old  (lawyer's) client  
+ लापरवाह मुअक्किल  heedless  (lawyer's) client  
+
+(364)मुक़द्दमा muqaddamā _mc_ law-suit, legal case 
+ दीवानी मुक़द्दमा  civil  legal case  
+ फ़ौजदारी मुक़द्दमा  criminal  legal case  
+ लंबा मुक़द्दमा  long  legal case  
+
+(365)मुकुट mukuṭ _mc_ diadem, coronet 
+  सोने  का मुकुट    golden coronet 
+ छोटा-सा  मुकुट   tiny coronet  
+
+(366)मुखौटा mukhāūṭā _mc_ mask 
+ अजीब मुखौटा  funny  mask  
+ घिनौना मुखौटा  hideous  mask  
+ मोमी मुखौटा  waxen  mask  
+
+(367)मुगदर mug·dar _mc_ mallet, club used in physical exercises 
+ भारी मुगदर  heavy mallet  
+ हलका मुगदर  light mallet   
+लकडी मुगदर wooden mallet  
+
+(368)मुजरिम muj·rim _mc_ criminal, offender 
+ ख़तरनाक मुजरिम  dangerous  offender  
+ दिलेर मुजरिम  daring  offender  
+
+(369)मुनीम munīm _mc_ accounts clerk (of a merchant) 
+ ईमानदार मुनीम  honest  accounts clerk (of a merchant)  
+ बड़ा मुनीम  chief  accounts clerk (of a merchant)  
+
+(370)हमला ham·lā _mc_ attack, assault 
+ अचानक हमला  sudden  assault  
+ ताज़ा हमला  fresh  assault  
+ बेधड़क हमला  bold  assault  
+ सीधा हमला  direct  assault  
+ हवाई हमला  air-assault  
+
+(371)मुरग़ा murGā _mc_ cock, rooster 
+ इठलाता मुरग़ा  strutting  rooster  
+ लड़ाका मुरग़ा  belligerent  rooster  
+
+(372)मुरदार mur·dār _mc_ carcass 
+ फूला- फूला मुरदार      swollen carcass
+ सड़ा-सड़ा मुरदार  putrid  carcass  
+
+(373)मुलाज़िम mulāzim _mc_ employee 
+ ईमानदार मुलाज़िम  honest  employee  
+ पुराना मुलाज़िम  old  employee  
+
+(374)मुसलमान mus·almān _mc_ Muslim 
+ कट्टर मुसलमान  staunch  Muslim  
+ ईमानदार मुसलमान  honest/religious  Muslim 
+
+(375)मुसाफ़िर musāfir _mc_ passenger 
+ आम मुसाफ़िर  general passenger  
+ रेलवे मुसाफ़िर  railway passenger  
+
+(376)मुहल्ला muhallā _mc_ ward, locality 
+ छोटा मुहल्ला  small locality  
+ बड़ा मुहल्ला  big locality  
+ साफ़-सुथरा मुहल्ला  clean and tidy locality  
+
+(377)मुहावरा muhāv·rā _mc_ idiom 
+ अँग्रेज़ी मुहावरा  English  idiom  
+ ठीक मुहावरा  correct  idiom  
+ देहाती मुहावरा  rustic  idiom  
+
+(378)मूर्तिकार mūrtikār _mc_ sculptor 
+ चतुर मूर्तिकार  clever  sculptor  
+ प्रसिद्ध मूर्तिकार  famous  sculptor  
+
+(379)मूर्तिपूजक mūrtipūjak _mc_ idol- worshipper, idolater 
+ कट्टर मूर्तिपूजक  staunch  idolater  
+ भक्‍ितपूर्ण मूर्तिपूजक  devoted  idolater  
+
+(380)मेंबर membar _mc_ member 
+ ईमान-  दार मेंबर   honest member   
+ पढ़ा-लिखा मेंबर  educated member  
+ पुराना मेंबर  old member  
+
+(381)हल¹ hal _mc_ solution 
+ रचनात्मक हल¹  constructive  solution  
+ संतोषजनक हल¹  satisfactory  solution  
+ स्थायी हल¹  permanent  solution  
+
+(382)मेढ़ा meṛhā _mc_ ram 
+ जंगली मेढ़ा  wild  ram  
+ पालतू मेढ़ा  domestic/tame  ram  
+
+(383)मेदा medā _mc_ stomach 
+ ख़ाली मेदा  empty  stomach  
+ भरा मेदा  full  stomach  
+ गड़बड़ मेदा  upset  stomach  
+
+(384)मेहमान meh·mān _mc_ guest 
+ प्यारा मेहमान  favourite  guest  
+ बिनबुलाया मेहमान  uninvited  guest  
+ चिड़चॢड़ा मेहमान  sulky  guest  
+
+(385)मैनेजर māīnejar _mc_ manager 
+ मेहनती मैनेजर  industrious  manager  
+ होशियार मैनेजर  dexterous  manager  
+ सफल मैनेजर  successful  manager  
+
+(386)मोती motī _mc_ pearl 
+ आबदार मोती  lustrous  pearl  
+ चमकदार मोती  glittering  pearl  
+ झूठा मोती  synthetic  pearl  
+ बहुमूल्य मोती  valuable  pearl  
+
+(387)मोरचा¹ mor·chā _mc_ (battle) front 
+ फ़ौजी मोरचा¹  military  (battle) front  
+ राष्ट्रीय मोरचा¹  national  (battle) front  
+ संयुक्‍त मोरचा¹  joint  (battle) front  
+
+(388)हल² hal _mc_ plough 
+ देसी हल²  country made plough   
+ विलायती हल²  foreign  plough  
+
+(389)हलवाई hal·vāī _mc_ confectioner 
+ गंदा हलवाई  dirty  confectioner  
+ साफ़-सुथरा हलवाई  clean and tidy  confectioner   
+
+(390)यंत्र yantra _mc_ instrument, apparatus 
+ वाद्य यंत्र  musical  apparatus  
+ विश्‍वसनीय यंत्र  reliable  apparatus  
+ सूक्ष्म यंत्र  minute  apparatus  
+
+(391)यज्ञ yagyã _mc_ religious sacrifice (performance), yagya 
+ दैनिक यज्ञ  daily  yagya  
+ साप्ताहिक यज्ञ  weekly  yagya  
+ विशेष यज्ञ  special  yagya  
+
+(392)यत्न yatna _mc_ effort 
+ अत्यन्त यत्न  utmost  effort  
+ अंतिम यत्न  last  effort  
+ कड़ा यत्न  strenuous  effort  
+ सम्मिलित यत्न  united  effort  
+
+(393)युग yug _mc_ age, period 
+ आदि युग  early  period  
+ ऐतिहासिक युग  historical  period  
+ प्राचीन युग  ancient  period  
+ मध्य युग  mediaeval  period  
+ आधुनिक युग  modern  period  
+ नया युग  new  period  
+
+(394)युद्ध yuddha _mc_ war 
+ गृह- युद्ध  civil  war  
+ धार्मिक युद्ध  religious  war  
+ निश्चयात्मक युद्ध  decisive  war  
+ भयानक युद्ध  horrible  war  
+ भारी युद्ध  tremendous  war  
+ विनाशकारी युद्ध  disastrous  war  
+
+(395)हवाई-जहाज़ havāī-jahāz _mc_ aeroplane 
+ तेज़ हवाई-जहाज़  fast  aeroplane  
+ बड़ा हवाई-जहाज़  large  aeroplane  
+ विदेशी हवाई-जहाज़  foreign  aeroplane
+
+(396)रंगमंच raṅg·mañch _mc_ stage  
+ आधुनिक रंगमंच  modern  stage   
+ परिभ्रामी रंगमंच  revolving  stage   
+ हिलता-डुलता रंगमंच  trembling  stage   
+
+(397)रँगरूट rãgr·ūṭ _mc_ recruit 
+ अनिच्छुक रँगरूट  unwilling  recruit  
+ युवा रँगरूट  young  recruit  
+ विश्‍वसनीय रँगरूट  trustworthy  recruit  
+
+(398)रईस raīs _mc_ nobleman, grandee 
+ बड़ा रईस  great  grandee  
+ बिगड़ा रईस  debased  grandee  
+ पुराना रईस  old  grandee  
+
+(399)रत्न ratna _mc_ gem 
+ असली रत्न  real  gem  
+ चमकता रत्न  glistening  gem  
+ मूल्यवान् रत्न  costly  gem  
+
+(400)रहस्य rahasya _mc_ secret, mystery 
+ आश्चर्यजनक रहस्य  astounding  mystery  
+ गहरा रहस्य  deep  mystery  
+ छिपा  हुआ रहस्य      concealed mystery
+
+(401)राक्षस rākṣas _mc_ demon 
+ भयानक राक्षस  terrible  demon  
+ क्रूर राक्षस  ferocious  demon  
+
+(402)राजकुमार rāj·kumār _mc_ prince 
+ दयालु राजकुमार  merciful  prince  
+ बड़ा राजकुमार  eldest  prince  
+ सीधा- सादा राजकुमार      upright prince 
+
+(403)राजदूत rāj·dūt _mc_ ambassador 
+ असाधारण राजदूत  extraordinary  ambassador  
+ स्थानापन्‍न राजदूत  officiating  ambassador  
+
+(404)राजनीतिज्ञ rāj·nītigy _mc_ politician 
+ अनुभवी राजनीतिज्ञ  experienced  politician  
+ चतुर राजनीतिज्ञ  clever  politician  
+ योग्य राजनीतिज्ञ  able  politician  
+
+(405)राजपथ rāj·path _mc_ highway, royal road 
+ चौड़ा राजपथ  wide  royal road  
+ समतल राजपथ  smooth  royal road  
+
+(406)राजभवन rāj·bhavan _mc_ ruler's residence, palace 
+ छोटा-सा राजभवन  small  palace  
+ खुला राजभवन  spacious  palace  
+
+(407)राजमहल rāj·mahal _mc_ palace 
+ शानदार राजमहल  gracious  palace  
+ सुंदर राजमहल  beautiful  palace  
+
+(408)राजवंश rāj·vansh _mc_ dynasty 
+ चौहान राजवंश  Chauhan  dynasty  
+ मुग़ल राजवंश  Moghul  dynasty  
+ मौर्य राजवंश  Maurya  dynasty  
+
+(409)राज्यपाल rājya·pāl _mc_ governor (of a state) 
+ उदार राज्यपाल  liberal  governor (of a state)  
+ अनुभवी राज्यपाल  experienced  governor (of a state)  
+ निष्पक्ष राज्यपाल  impartial  governor (of a state)  
+
+(410)राष्ट्र rāṣṭra _mc_ nation 
+ मित्र राष्ट्र  friendly  nation  
+ तटस्थ राष्ट्र  neutral  nation  
+ पड़ोसी राष्ट्र  neighbouring  nation  
+
+(411)रिबन riban _mc_ ribbon 
+ काला रिबन  black  ribbon  
+ नीला रिबन  blue  ribbon  
+ रेशमी रिबन  silk  ribbon  
+ लंबा रिबन  long  ribbon  
+
+(412)रिवाज rivāj _mc_ practice, custom, 
+ पुराना रिवाज  old custom  
+ गंदा रिवाज  nasty custom  
+
+(413)रिवाल्वर rivālvar _mc_ revolver 
+ देसी रिवाल्वर  country-made  revolver  
+ विदेशी रिवाल्वर  foreign  revolver  
+
+(414)रीछ rīchh _mc_ bear 
+ काला रीछ  black  bear  
+ सफ़ेद रीछ  white  bear  
+ मक्कार रीछ  cunning  bear  
+ पालतू रीछ  domesticated  bear  
+
+(415)रूमाल rūmāl _mc_ handkerchief 
+ गंदा रूमाल  soiled  handkerchief  
+ सफ़ेद रूमाल  white  handkerchief  
+ साफ़ रूमाल  clean  handkerchief  
+ ज़नाना रूमाल  ladies'  handkerchief  
+ मरदाना रूमाल  men's  handkerchief  
+
+(416)रूलर rūlar, रूला rūlā _mc_ ruler, scale 
+ प्लास्टिक का रूलर    plastic scale     
+ लकड़ी का  रूलर   wooden scale     
+
+(417)हाकिम hākim _mc_ officer 
+ कड़ा हाकिम  strict  officer  
+ ज़ालिम हाकिम  cruel  officer  
+ बड़ा हाकिम  big  officer  
+
+(418)हाथ hāth _mc_ hand 
+ गीला हाथ  wet  hand  
+ ठंडा हाथ  cold  hand  
+ साफ़ हाथ  clean  hand  
+ सूखा हाथ  dry  hand 
+
+(419)रोग rog _mc_ disease 
+ घातक रोग  fatal  disease  
+ मानसिक रोग  mental  disease  
+ संक्रामक रोग  contagious  disease  
+
+(420)हाथी hāthī _mc_ elephant 
+ फ़ौजी हाथी  military elephant  
+ मस्त हाथी  wanton elephant  
+ सफ़ेद हाथी  white elephant
+
+(421)लँगोट lãgoṭ _mc_ a strip of loin cloth, langoṭ 
+ लाल लँगोट  red  langoṭ  
+ सूती लँगोट  cotton  langoṭ  
+
+(422)लट्ठ laṭṭha _mc_ (long heavy) staff,cudgel 
+ बाँस लट्ठ  का cudgel   bamboo लट्ठ 
+ बैंत लट्ठ  का cudgel   cane लट्ठ 
+
+(423)हाल¹ hāl _mc_ hall 
+ ख़ाली हाल¹  empty  hall  
+ खुला हाल¹  spacious  hall  
+ बड़ा हाल¹  big/large  hall 
+
+(424)लबादा labādā _mc_ gown 
+ ऊनी लबादा  woollen  gown  
+ रूईदार लबादा  cotton-stuffed  gown  
+
+(425)हाशिया hāshiyā _mc_ margin 
+ तंग हाशिया  narrow  margin  
+ चौड़ा हाशिया  wide  margin   
+
+(426)लाइसेंस lāisens _mc_ licence 
+ आयात लाइसेंस  import licence  
+ निर्यात लाइसेंस  export licence  
+ तदर्थ लाइसेंस  ad hoc licence  
+
+(427)लिफ़ाफ़ा lifāfā _mc_ envelope 
+ बंदclosed लिफ़ाफ़ा 
+ मुहरबंद लिफ़ाफ़ा  sealed  envelope  
+ रजिस्ट्री लिफ़ाफ़ा  registered  envelope  
+
+(428)लिबास libās _mc_ dress 
+ पूरा लिबास  full  dress  
+ मातमी लिबास  mourning  dress  
+ सादा लिबास  simple  dress  
+ रेशमी लिबास  silk  dress  
+
+(429)लेक्चर lekchar _mc_ lecture 
+ नया लेक्चर  new  lecture  
+ बढ़िया लेक्चर  nice  lecture  
+
+(430)लेखक lekhak _mc_ writer 
+ कहानी लेखक  story  writer  
+ नवीन लेखक  new  writer  
+ प्रसिद्ध लेखक  famous  writer  
+ भारतीय लेखक  Indian  writer  
+
+(431)हिंडोला hinḍolā _mc_ a cradled swing 
+ चमकीला हिंडोला  glittering  a cradled swing  
+ रंगीला हिंडोला  colourful  a cradled swing 
+
+(432)लेखापाल lekhāpāl _mc_ accountant 
+ अवर लेखापाल  junior  accountant  
+ प्रवर लेखापाल  senior  accountant  
+ महा लेखापाल  general  accountant  
+
+(433)हिरन hiran _mc_ deer 
+ छोटा हिरन  tiny/young  deer   
+ जंगली हिरन  wild  deer  
+ निरीह हिरन  innocent  deer  
+ पालतू हिरन  domestic  deer  
+ सुंदर हिरन  beautiful  deer  
+
+(434)हिलोरा hilorā _mc_ surge 
+ भयानक हिलोरा  fearful  surge  
+ भीषण हिलोरा  furious  surge 
+
+(435)वकील vakīl _mc_ lawyer 
+ नामी वकील  famous lawyer  
+ परिश्रमी वकील  hardworking lawyer  
+ होशियार वकील  clever lawyer  
+
+(436)वक्तव्य vaktavya _mc_ (verbal) statement 
+ औपचारिक वक्तव्य  formal  (verbal) statement  
+ निरा-धार वक्तव्य    unfounded (verbal) statement    
+ लिखित वक्तव्य  written  (verbal) statement  
+ संयुक्‍त वक्तव्य  joint  (verbal) statement  
+
+(437)वन van _mc_ forest 
+ घना वन  dense  forest  
+ बड़ा वन  great  forest  
+ भयानक वन  dreadful  forest    
+
+(439)वाक्य vākya _mc_ sentence 
+ सरल वाक्य simple sentence
+ संयुक्‍त वाक्य  compound  sentence  
+ मिश्र वाक्य  complex  sentence  
+ अधीन वाक्य  subordinate  sentence  
+ मुख्य वाक्य  principal  sentence  
+ प्रश्नवाचक वाक्य  interrogatory  sentence  
+
+(440)वाचनालय vāchanālay _mc_ reading room 
+ खुला वाचनालय  spacious  reading room  
+ पुराना वाचनालय  old  reading room  
+ सार्वजिनक वाचनालय  public  reading room  
+
+(441)वादा vādā _mc_ promise 
+ आपसी वादा  reciprocal  promise  
+ झूठा वादा  false  promise  
+ पक्का वादा  solemn  promise  
+ बेमानी वादा  meaningless  promise  
+ सच्चा वादा  true  promise  
+
+(442)वायुयान vāyuyān _mc_ aeroplane 
+ नया वायुयान  new  aeroplane  
+ बड़ा वायुयान  big  aeroplane  
+ सवारी वायुयान  passenger  aeroplane  
+
+(443)वालंटियर vālanṭiyar _mc_ volunteer 
+ ईमानदार वालंटियर  honest  volunteer  
+ परिश्रमी वालंटियर  hardworking  volunteer  
+
+(444)विक्रेता vikretā _mc_ seller, vendor 
+ चतुर विक्रेता  clever  vendor  
+ ईमानदार विक्रेता  honest  vendor  
+ वाचाल विक्रेता  talkative  vendor  
+
+(445)विघ्न vighna _mc_ interruption 
+ अचानक विघ्न  sudden  interruption  
+ क्षणिक विघ्न  momentary  interruption  
+ लंबा विघ्न  long  interruption  
+
+(446)विचारक vichārak _mc_ thinker 
+ गंभीर विचारक  profound;  thinker  
+ महान् विचारक  great  thinker  
+ मुक्‍त विचारक  free  thinker  
+
+(447)विजेता vijetā _mc_ victor, conqueror 
+ बलवान् विजेता  mighty  conqueror  
+ विख्यात विजेता  famous  conqueror  
+ शक्‍ितमान् विजेता  powerful  conqueror  
+
+(448)विज्ञान vigyã̄n _mc_ science 
+ आधुनिक विज्ञान  modern  science  
+ प्रायोगिक विज्ञान  practical  science  
+ मालिक विज्ञान  fundamental  science  
+ विशुद्ध विज्ञान  pure  science  
+
+(449)हीरा hīrā _mc_ diamond 
+ असली हीरा  real  diamond  
+ नक़ली हीरा  artificial  diamond  
+ झूठा हीरा  false  diamond  
+ सच्चा हीरा  pure  diamond   
+
+(450)विद्यार्थी vidyārthī _mc_ student 
+ परिश्रमी विद्यार्थी  hardworking  student  
+ नया विद्यार्थी  new  student  
+ पुराना विद्यार्थी  old  student  
+ निर्धन विद्यार्थी  poor  student  
+ स्वस्थ विद्यार्थी  healthy  student  
+ योग्य विद्यार्थी  able  student  
+
+(451)विद्यालय vidyālay _mc_ school 
+ प्राथमिक विद्यालय  primary  school  
+ माध्यमिक विद्यालय  secondary  school  
+ उच्चतर विद्यालय  माध्यमिक  higher secondary  school  
+ मान्यताप्राप्त विद्यालय  recognized  school  
+ सैनिक विद्यालय  milittary  school  
+
+(452)विद्रोह vidroh _mc_ revolt, rebellion 
+ युवा विद्रोह  youth  rebellion  
+ खुला विद्रोह  open  rebellion  
+ भयानक विद्रोह  terrible  rebellion  
+ सशस्त्र विद्रोह  armed  rebellion  
+
+(453)विवाह vivāh _mc_ marriage 
+ अनमेल विवाह  unequal  marriage  
+ क़ानूनी विवाह  legal  marriage  
+ शुभ विवाह  happy  marriage  
+
+(454)हुक्म hukma _mc_ order 
+ कड़ा हुक्म  strict/rigid  order   
+ बहुत ज़रूरी हुक्म   urgent order  
+ सरकारी हुक्म  government order  
+
+(455)व्यक्ति vyakti _mc_ individual, person 
+ अज्ञात व्यक्ति  unknown  person  
+ असभ्य व्यक्ति  uncivilized  person  
+ भला व्यक्ति  good  person  
+
+(456)व्यवसायी vyav·sāyī _mc_ businessman 
+ ईमानदार व्यवसायी  honest  businessman  
+ परिश्रमी व्यवसायी  hard-working  businessman  
+ चतुर व्यवसायी  clever  businessman  
+
+(457)व्याख्यान vyākhyān _mc_ lecture 
+ रोचक व्याख्यान  interesting  lecture  
+ विद्वत्तापूर्ण व्याख्यान  learned  lecture  
+
+(458)शंख shaṅkh _mc_ conch(-shell) 
+ छोटा शंख  small  conch(-shell)  
+ बड़ा शंख  big  conch(-shell)  
+ टूटा हुआ शंख    broken conch(-shell)  
+
+(459)शकुन shakun _mc_ omen, augury 
+ अशुभ शकुन  bad  augury  
+ शुभ शकुन  good  augury  
+
+(460)होल्डाल holḍāl _mc_ hold-all 
+ छोटा होल्डाल  small  hold-all  
+ नया होल्डाल  new  hold-all  
+ पुराना होल्डाल  old  hold-all 
+
+(461)शत्रु shatru _mc_ enemy 
+ कट्टर शत्रु  bitter  enemy  
+ घोर शत्रु  deadly  enemy  
+ बाहरी शत्रु  external  enemy  
+
+(462)शब्दकोश shabdakosh, शब्दकोष shabdakoṣ _mc_ dictionary 
+ जेबी शब्दकोश  pocket  dictionary  
+ पारिभाषिक शब्दकोश  terminological  dictionary  
+ बृहत् शब्दकोश  comprehensive  dictionary  
+ व्यावहारिक शब्दकोश  practical  dictionary  
+
+(463)शब्दसंग्रह shabdasaṅgrah _mc_ glossary 
+ अधूरा शब्दसंग्रह  incomplete  glossary  
+ पारिभाषिक शब्दसंग्रह  terminological  glossary  
+
+(464)शस्त्र shastra _mc_ weapon, arms 
+ आधुनिक शस्त्र  modern  arms  
+ पुराने शस्त्र  old  arms  
+ आण्विक शस्त्र  atomic  arms  
+
+(465)शामियाना shāmiyānā _mc_ canopy, shamyana 
+ बड़ा शामियाना  big  shamyana  
+ लंबा-चौड़ा शामियाना  large  shamyana  
+ नया शामियाना  new  shamyana  
+
+(466)शाल shāl _mc_ shawl  
+ ऊनी शाल  woollen  shawl   
+ रेशमी शाल  silk  shawl   
+ क़ीमती शाल  costly  shawl   
+
+(467)शासक shāsak _mc_ ruler 
+ उदार शासक  liberal  ruler  
+ क्रूर शासक  cruel  ruler  
+ लोकप्रिय शासक  popular  ruler  
+ शक्‍ितशाली शासक  powerful  ruler  
+ सैनिक शासक  military  ruler  
+
+(468)शिक्षक shikṣak _mc_ teacher, instructor 
+ ग़रीब शिक्षक  poor  instructor  
+ ग्रामीण/देहाती शिक्षक  rural  instructor  
+ माध्यमिक शिक्षक  secondary  instructor  
+
+(469)शिल्पकार shilpakār, शिल्पी shilpī _mc_ artisan, crafsman 
+ निपुण शिल्पकार  efficient  crafsman  
+ प्रसिद्ध शिल्पकार  famous  crafsman  
+ साधारण शिल्पकार  ordinary  crafsman  
+
+(470)शिविर shivir _mc_ camp 
+ खुला शिविर  open  camp  
+ प्रधान शिविर  main  camp  
+ राष्ट्रीय शिविर  national  camp  
+
+(471)शीर्षक shīrṣak _mc_ heading 
+ उपयुक्‍त शीर्षक  suitable  heading  
+ छोटा-सा शीर्षक  short  heading  
+
+(472)शो sho _mc_ show 
+ आख़िरी शो  last  show  
+ पहला शो  first  show  
+ दिन  का शो  matinee show   
+ रात  का शो   night show   
+
+(473)शोर shor _mc_ noise 
+ काफ़ी शोर  enough  noise  
+ ज़बरदस्त/भारी शोर  great  noise  
+
+(474)शौचालय shauchālay _mc_ toilet, lavatory 
+ गंदा शौचालय  dirty  lavatory  
+ साफ़ शौचालय  tidy  lavatory  
+ सार्वजनिक शौचालय  public  lavatory  
+
+(475)शमशान shmashān _mc_ cremation ground 
+ उजाड़ शमशान  deserted  cremation ground  
+ भयानक शमशान  dreadful  cremation ground  
+
+(476)श्रेता shrotā _mc_ listener, audience 
+ आदर्श श्रेता  ideal  audience  
+ मूक श्रेता  silent  audience  
+ सामान्य श्रेता  general  audience  
+
+(477)षड्यन्त्र ṣaḍyantra _mc_ plot, conspiracy 
+ गंदा षड्यन्त्र  foul  conspiracy  
+ भयानक षड्यन्त्र  horrible  conspiracy  
+ राजनीतिक षड्यन्त्र  political  conspiracy  
+
+(478)संकलन saṅkalan _mc_ collection, compilation 
+ आकर्षक संकलन  attractive  compilation  
+ पूरा संकलन  complete  compilation  
+ सम्मिलित संकलन  combined  compilation  
+
+(479)संगठन saṅgaṭhan _mc_ organization 
+ औद्योगिक संगठन  industrial  organization  
+ छात्र संगठन  students'  organization  
+ धार्मिक संगठन  religious  organization  
+ निष्पक्ष संगठन  impartial  organization  
+ प्रतिनिधि संगठन  representative  organization  
+ राष्ट्रीय संगठन  national  organization  
+ सांस्कृतिक संगठन  cultural  organization  
+
+(480)पहरावा pah·rāvā _mc_ dress 
+ ऊनी पहरावा  woollen dress  
+ फ़ैशनी पहरावा  fashionable dress  
+ रेशमी पहरावा  silken dress  
+ सस्ता पहरावा  cheap dress  
+ सादा पहरावा  simple/plain dress 
+ साफ़-सुथरा पहरावा  clean dress  
+ सूती पहरावा  cotton dress  
+ हलका पहरावा  light dress     
+
+(481)संत sant _mc_ saint 
+ श्रध्देय संत  revered  saint  
+ प्राचीन संत  ancient  saint  
+ स्थानीय संत  local  saint  
+
+(482)संतरा santarā _mc_ orange 
+ छोटा संतरा  small  orange  
+ बड़ा संतरा  big  orange  
+ खट्टा संतरा  sour  orange  
+ मीठा संतरा  sweet  orange  
+
+(483)संतरी san·tarī _mc_ sentry, sentinel 
+ जागरुक संतरी  wide-awake  sentinel  
+ ख़बरदार संतरी  watchful  sentinel  
+ विश्‍वसनीय संतरी  reliable  sentinel  
+
+(484)संदेश sandesh, संदेसा sandesā _mc_ message 
+ औपचारिक संदेश  formal  message  
+ दूरमुद्रित संदेश  teleprinted  message  
+ मौखिक संदेश  verbal  message  
+ लिखित संदेश  written  message  
+ संक्षिप्त संदेश  short  message  
+
+(485)संपादक sampādak _mc_ editor 
+ मुख्य/प्रधान   संपादक   chief editor    
+ प्रबंध संपादक      managing editor
+ वयोवृध्द संपादक  veteran  editor  
+
+(486)सँपेरा sãperā _mc_ snake-charmer (from साँप snake) 
+ दिलेर सँपेरा  daring  snake-charmer (from साँप snake)  
+ ग़रीब सँपेरा  poor  snake-charmer (from साँप snake)  
+
+(487)संबंधी sambandhī _mc_ relative 
+ निकट संबंधी  near  relative  
+ सगे संबंधी  real  relative  
+
+(488)संवाद-दाता samvād-dātā _mc_ correspondent 
+ निजी संवाद-दाता  private  correspondent  
+ फ़ौजी संवाद-दाता  military  correspondent  
+ विशेष संवाद-दाता  special  correspondent  
+ स्थानीय संवाद-दाता  local  correspondent  
+
+(489)संविधान samvidhān _mc_ constitution 
+ भारतीय संविधान  Indian  constitution  
+ नया संविधान  new  constitution  
+ राष्ट्रीय संविधान  national  constitution  
+ लिखित संविधान  written  constitution  
+
+(490)संसद् sansad _mc_ parliament 
+ कठपुतली संसद्  puppet  parliament  
+ निर्वाचित संसद्  elected  parliament  
+
+(491)संस्करण sanskaraṇ _mc_ edition 
+ अँग्रेज़ी संस्करण  English  edition  
+ प्रातः संस्करण  morning  edition  
+ लघु संस्करण  pocket  edition  
+
+(492)संस्थान sansthān _mc_ institute 
+ उच्चतर संस्थान  higher  institute  
+ केन्द्रीय संस्थान  central  institute  
+ चिकित्सा संस्थान  medical  institute  
+ राजकीय संस्थान  government  institute  
+ विधि संस्थान  law  institute  
+
+(493)संस्मरण sansamaraṇ _mc_ reminiscences, memoirs 
+ अनूदित संस्मरण  translated  memoirs  
+ रोचक संस्मरण  interesting  memoirs  
+ संक्षिप्त संस्मरण  brief  memoirs  
+
+(494)सचिव sachiv _mc_ secretary 
+ अवर सचिव  under secretary  
+ उप सचिव  deputy secretary  
+ निजी सचिव  personal secretary  
+ प्रथम सचिव  first secretary  
+ मुख्य सचिव  chief secretary  
+ संयुक्‍त सचिव  joint secretary  
+ सहायक सचिव  assistant secretary  
+
+(495)सचिवालय sachivālay _mc_ secretariat 
+ शिक्षा सचिवालय  education  secretariat  
+ श्रम सचिवालय  labour  secretariat  
+ संचार सचिवालय  communication  secretariat  
+
+(496)सदस्य sadasya _mc_ member 
+ आजीवन सदस्य  life-  member  
+ नया सदस्य  new  member  
+ निर्वाचित सदस्य  elected  member  
+ पुराना सदस्य  old  member  
+ सम्मानित सदस्य  respected  member  
+ स्थायी सदस्य  permanent  member  
+
+(497)सपना sap·nā _mc_ dream 
+ भयानक सपना  terrifying  dream  
+ मधुर सपना  sweet  dream  
+ सुहावना सपना  pleasant  dream  
+
+(498)सप्ताह saptāh _mc_ week 
+ अगला सप्ताह  next  week  
+ पिछला सप्ताह  last  week       

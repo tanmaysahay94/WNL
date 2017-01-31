@@ -1,0 +1,26 @@
+hindi   	word        lexname     			number 	lemma_names
+अटल     	firm        adj.all     			3  		firm steadfast steady stiff unbendable unfaltering unshakable unwavering
+औंधा      	overturned  adj.all     			6       overturned upset upturned
+बेवक़्त    	untimely    adj.all     			0       ill-timed unseasonable untimely wrong
+सर्वाधिक	utmost 		utmostnoun.attribute 	0 		utmost uttermost maximum level_best
+सविस्तार	elaborate	adj.all 				5 		detailed elaborate elaborated
+तनिक		little		adj.all 				1	 	small little
+बहुत		very		adj.all 				0	 	very
+बाक़ायदा	regularly	adv.all 				0 		regularly on_a_regular_basis
+भरपूर		extremely	adv.all 				0 		highly extremely
+सख्त		seriously	adv.all 				1 		badly severely gravely seriously
+अधिकारी	officer		noun.person 			0 		military_officer officer
+ओर			side		noun.location 			0 		side
+गैस			gas			noun.state 				0 		gas gaseous_state
+छुट्टी		holiday		noun.time 				1		holiday
+ट्रेन		train		noun.artifact 			0 		railway railroad railroad_line railway_line railway_system
+नगर			city		noun.location 			0 		city metropolis urban_center
+पहाड़ी		hill		noun.object				0 		hill
+बोली		dialect		noun.communication 		0 		dialect idiom accent
+मुश्किल	difficulty	noun.state 				2 		difficulty
+सूचना		notice		noun.communication 		0 		notice
+गरमी		heat 		noun.attribute 			1 		hotness heat high_temperature
+सूचना		information	noun.communication 		0 		information info
+छुट्टी		leave 		noun.time 				0  		leave leave_of_absence
+सरदी 		cold 		noun.attribute 			1 		coldness cold low_temperature frigidity frigidness
+सराहना		praise		noun.communication 		0 praise congratulations kudos extolment

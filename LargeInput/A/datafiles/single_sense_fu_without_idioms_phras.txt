@@ -1,0 +1,604 @@
+(1)अक्ल aql _fu_ intelligence, intellect 
+ तेज़ अक्ल  sharp  intellect  
+ थोड़ी अक्ल  a little intellect
+
+(2)शराव sharāb _fu_ liquor 
+ देशी शराव  country  liquor  
+ पुरानी शराव  old  liquor  
+ बढ़िया शराव  excellent  liquor  
+ लाल शराव  red  liquor  
+ सफ़ेद शराव  white  liquor  
+ हलकी शराव  light  liquor
+
+(3)शांति shāntī _fu_ peace 
+ पूर्ण शांति  perfect  peace  
+ वास्तविक शांति  real  peace  
+ स्थायी शांति  permanent  peace 
+
+(4)शिथिलता shithil·tā _fu_ laxity, slackness 
+ नैतिक शिथिलता  moral  slackness  
+ प्रशासनिक शिथिलता  administrative  slackness  
+ मानसिक शिथिलता  mental  slackness  
+
+(5)अव्यवस्था avyavasthā _fu_ mismanagement 
+ उत्पादन  की अव्यवस्था   mismanagement of production
+ घर की अव्यवस्था    mismanagement of the house
+
+(6)अशांति ashānti _fu_ unrest 
+ घोर अशांति  grave  unrest  
+ वर्तमान अशांति  present  unrest  
+ सामाजिक अशांति  social  unrest  
+
+(7)अस्थिरता asthir·tā _fu_ unstability 
+ जीवन की अस्थिरता   unstability of life   
+ जगत् की अस्थिरता    unstability of the world  
+ नौकरी की अस्थिरता    unstability of service
+
+(8)असपष्टता aspaṣṭatā _fu_ obscurity 
+ विचार की असपष्टता    obscurity of thought 
+ लेख की असपष्टता    obscurity of writing
+
+(9)आग āg _fu_ fire 
+ आकस्मिक आग  accidental  fire  
+ भयानक आग  dreadful  fire  
+
+(10)आब¹ āb _fu_ lustre, brightness 
+ फूलों की आब¹    brightness of flowers
+ मोती की आब¹   brightness of a pearl 
+
+(11)आब-हवा āb-havā _fu_ (lit.) water and air, climate 
+ खुश्क आब-हवा  dry  climate  
+ गरम आब-हवा  hot  climate  
+ ठंडी आब-हवा  cold  climate  
+ तर आब-हवा  damp  climate  
+ नरम आब-हवा  mild  climate  
+
+(12)आमदनी āmad·nī _fu_ income 
+ अति-रिक्‍त  आमदनी      additional income 
+ कच्ची आमदनी  temporary  income  
+ कुल आमदनी  nett  income  
+ पक्की/स्थायी आमदनी  permanent  income  
+
+(13)आय āy _fu_ income 
+ मासिक आय  monthly  income  
+ वार्षिक आय  annual  income  
+ कुल आय  nett  income  
+ राष्ट्रीय आय  national  income  
+
+(14)आयु āyu _fu_ age 
+ मानसिक आयु  mental  age  
+ सामान्य आयु  normal  age  
+
+(15)उजरत uj·raṭ _fu_ remuneration, wages 
+ असली उजरत  actual  wages  
+ माहवारी उजरत  monthly  wages  
+
+(16)उत्तेजना uttej·nā _fu_ excitement, provocation 
+ अनावश्यक उत्तेजना  unnecessary  provocation  
+ अनुचित उत्तेजना  improper  provocation  
+ उचित उत्तेजना  proper  provocation  
+
+(17)उथल-पुथल uthal-puthal _fu_ upheaval, commotion 
+ क्रांतिकारी उथल-पुथल  revolutionary  commotion  
+ राजनीतिक उथल-पुथल  political  commotion  
+
+(18)एकता ek·tā _fu_ unity, solidarity 
+ धार्मिक एकता  religious  solidarity  
+ राजनीतिक एकता  political  solidarity  
+ राष्ट्रीय एकता  national  solidarity  
+
+(19)ऐंठन aiṭhan _fu_ twist, contortion 
+पीड़ाजनक ऐंठन  painful  contortion   
+हलकी ऐंठन  slight  contortion  
+
+(20)कपास kapās _fu_ cotton 
+ देसी कपास  Indian  cotton  
+ विलायती कपास  foreign  cotton  
+ सस्ती कपास  cheap  cotton  
+ महँगी कपास  expensive  cotton  
+
+(21)कफ़ kaph _fu_ phlegm 
+ पतली कफ़  thin  phlegm  
+ गाढ़ी कफ़  thick  phlegm  
+ पीली कफ़  yellow  phlegm  
+
+(22)कमाई kamāī _fu_ earning(s) 
+ पक्की/स्थायी  कमाई    permanent earning(s)    
+ आज की कमाई    today's earning(s)   
+
+(23)कौफ़ी¹ kafī _fu_ coffee 
+ काली कौफ़ी¹  black  coffee  
+ गरम कौफ़ी¹  hot  coffee  
+ ठंडी कौफ़ी¹  cold  coffee  
+ ताज़ा कौफ़ी¹  fresh  coffee  
+ तेज़ कौफ़ी¹  strong  coffee  
+ स्पेशल कौफ़ी¹  special  coffee  
+
+(24)कामयाबी kām·yābī _fu_ success 
+ आसान कामयाबी  easy  success  
+ ख़ूब/भारी कामयाबी  great  success  
+
+(25)कारीगरी kārīgarī _fu_ workmanship 
+ असाधारण कारीगरी  uncommon  workmanship  
+ बढ़िया कारीगरी  superb  workmanship  
+ पूरी-पक्की कारीगरी  perfect  workmanship  
+
+(26)क़िस्मत qismat _fu_ luck 
+ अच्छी क़िस्मत  good  luck  
+ बुरी क़िस्मत  bad  luck  
+
+(27)कृषि kriṣi _fu_ agriculture, farming 
+ आधुनिक कृषि  modern  farming  
+ मशीनी कृषि  mechanized  farming  
+ विकसित कृषि  developed  farming  
+
+(28)क़ैद qāīd _fu_ imprisonment 
+ उम्र  (की) क़ैद   life imprisonment   
+ सादी क़ैद  simple  imprisonment  
+ कड़ी/सख़्त क़ैद  rigorous  imprisonment  
+
+(29)क्रिम krīm _fu_ cream 
+ ताज़ी क्रिम  fresh  cream  
+ मोटी क्रिम  thick  cream  
+ खट्टी क्रिम  sour  cream  
+
+(30)खाँसी khã̄sī _fu_ cough 
+ काली/कूकर खाँसी  whooping  cough  
+ पुरानी खाँसी  chronic  cough  
+ सूखी खाँसी  dry  cough  
+
+(31)खीर khī˜r _fu_ khir, a sweet dish prepared from rice and milk 
+ गर्म-गर्म खीर  hot  a sweet dish prepared from rice and milk  
+ ठंडी खीर  cold  a sweet dish prepared from rice and milk  
+
+(32)खुशामद ḵẖushāmad _fu_ flattery 
+ झूठी खुशामद  false/untrue  flattery  
+
+(33)गंध gandh _fu_ smell, odour 
+ तीखी गंध  pungent  odour  
+ भीनी-भीनी/सुहावनी गंध  pleasant  odour  
+
+(34)सजावट sajāvaṭ _fu_ decoration 
+ भीतरी सजावट  internal  decoration  
+ बाहरी सजावट  outer  decoration  
+ शानदार सजावट  splendid  decoration 
+ 
+(35)गारंटी gāranṭī _fu_ guarantee 
+ ज़बानी/ गारंटी  मौखिक  guarantee   oral गारंटी 
+ पक्की गारंटी  solid  guarantee  
+ लिखित गारंटी  written  guarantee  
+
+(36)होड़ hoṛ _fu_ competition, race 
+ खुली होड़  open/free  race  
+ भारी होड़  heavy  race  
+ व्यापारिक होड़  business  race 
+
+(37)सप्लाई saplāī _fu_ supply 
+ औसत सप्लाई  average  supply  
+ कम सप्लाई  short  supply  
+ काफ़ी सप्लाई  sufficient  supply  
+
+(38)सलाह salāh _fu_ advice, counsel 
+ अच्छी सलाह  good  counsel  
+ बुरी सलाह  bad  counsel  
+ हमारी सलाह  our  counsel  
+
+(39)सहमति sah·mati _fu_ consent, agreement 
+ परस्पर सहमति  mutual  agreement  
+ पूरी सहमति  full  agreement  
+ मूक सहमति  silent  agreement
+
+(40)चाय chay _fu_ tea 
+ गरम चाय  hot  tea  
+ ताज़ाfresh चाय 
+ तेज़ चाय  strong  tea  
+ हलकी चाय  light/weak  tea  
+
+(41)चित्तवृत्ति chitta·vritti _fu_ mood 
+ प्रसन्‍न चित्तवृत्ति  jolly  mood  
+ क्रोधपूर्ण चित्तवृत्ति  angry  mood  
+ उदास चित्तवृत्ति  sad  mood  
+ चिड़चिड़ी चित्तवृत्ति  irritable  mood  
+
+(42)सहानुभूति sahānubhūti _fu_ sympathy 
+ गहरी सहानुभूति  deep  sympathy  
+ पूरी सहानुभूति  full  sympathy  
+ हार्दिक सहानुभूति  heart-felt  sympathy 
+
+(43)चीनी¹ chīnī _fu_ sugar 
+ दानेदार चीनी¹  granulated  sugar  
+ सफ़ेद चीनी¹  white  sugar  
+ सस्ती चीनी¹  cheap  sugar  
+
+(44)चेतना chet·nā _fu_ consciousness 
+ राजनीतिक चेतना  political  consciousness  
+ राष्ट्रीय चेतना  national  consciousness  
+ सामाजीक चेतना  social  consciousness  
+
+(45)जन-गणना jan-gaṇ·nā _fu_ count of people, census 
+ अगली जन-गणना  next  census  
+ पिछली जन-गणना  last  census  
+
+(46)साज-सज्जा sāj-sajjā _fu_ decoration 
+ आधुनिक साज-सज्जा  modern  decoration  
+ सादी साज-सज्जा  simple  decoration  
+ सुरुचिपूर्ण साज-सज्जा  tasteful  decoration
+
+(47)जवानी javānī _fu_ youth 
+ उठती/चढ़ती जवानी  rising/ascending  youth  
+ उतरती/ढलती जवानी  declining  youth  
+
+(48)ज़िम्मेदारी zimmedārī _fu_ responsibility 
+ पूरी ज़िम्मेदारी  full  responsibility  
+ भारी ज़िम्मेदारी  great  responsibility  
+
+(49)ट्रेनिंग ṭreniṅg _fu_ training 
+ अच्छी ट्रेनिंग  good  training  
+ फ़ौजी ट्रेनिंग  military  training  
+
+(50)साझेदारी sājhedārī _fu_ partnership 
+ आजीवन साझेदारी  life-long partnership   
+सामान्य साझेदारी  general  partnership  
+ सीमित साझेदारी  limited  partnership
+   
+(51)तालीम tālīm _fu_ education, instruction 
+ आम तालीम  general  instruction  
+ बुनियादी तालीम  basic  instruction  
+
+(52)दशा dashā _fu_ condition, state 
+ बढ़िया दशा  excellent  state  
+ बुरी दशा  bad  state  
+ संतोषजनक दशा  satisfactory  state  
+ सामान्य दशा  normal  state  
+
+(53)दिलचस्पी dil·chaspī _fu_ interest 
+ ख़ास दिलचस्पी  special  interest  
+ गहरी दिलचस्पी  deep  interest  
+ अपनी दिलचस्पी  own  interest  
+
+(54)सुंदरता sundar·tā _fu_ beauty 
+ असाधारण सुंदरता  uncommon  beauty  
+ आत्मिक सुंदरता  spiritual  beauty  
+ शारीरिक सुंदरता  physical  beauty 
+
+(55)नब्ज़ nabza _fu_ pulse 
+ धीमी नब्ज़  low  pulse  
+ तेज़ नब्ज़  quick  pulse  
+ गड़बड़ नब्ज़  irregular  pulse  
+
+(56)सुगंध sugandh _fu_ scent, fragrance 
+ भीनी-भीनी सुगंध  subtle  fragrance  
+ मधुर सुगंध  sweet  fragrance  
+
+(57)सुरक्षा surakṣā _fu_ security 
+ आंतरिक सुरक्षा  internal  security  
+ उचित सुरक्षा  proper  security  
+ राष्ट्रीय सुरक्षा  national  security  
+ व्यक्‍ितगत सुरक्षा  personal  security  
+ सामाजिक सुरक्षा  social  security  
+ स्थायी सुरक्षा  stable/permanent  security   
+
+(58)निराशा nirāshā _fu_ disappointment 
+ पूरी निराशा  complete  disappointment  
+ बड़ी निराशा  great  disappointment  
+
+(59)नींद nī˜d _fu_ sleep 
+ कच्ची/हल्की नींद  light  sleep  
+ गहरी नींद  deep  sleep  
+ उखड़ी-उखड़ी नींद  broken  sleep  
+ मीठी नींद  sweet  sleep  
+
+(60)नीयत nīyat _fu_ intention 
+ अच्छी नीयत  good  intention  
+ बुरी नीयत  bad  intention  
+
+(61)पराजय parājay _fu_ defeat 
+ घोर पराजय  bitter  defeat  
+ पूरी पराजय  complete  defeat  
+ भारी पराजय  heavy  defeat  
+
+(62)पराधीनता parādhīn·tā _fu_ dependence 
+ आजीवन पराधीनता  life-time  dependence  
+ आर्थिक पराधीनता  economic  dependence  
+ पूर्ण पराधीनता  absolute  dependence  
+
+(63)पुलिस pulis _fu_ police 
+ ख़ुफ़िया पुलिस  detective  police  
+ रेलवे पुलिस  railway  police  
+ घुड़सवार पुलिस  mounted  police  
+
+(64)पूँजी pū̃jī _fu_ capital (money) 
+ अधिकृत पूँजी  authorized  capital (money)  
+ अस्थायी पूँजी  floating  capital (money)  
+ दुगुना पूँजी  double  capital (money)  
+ अचल/स्थायी पूँजी  fixed  capital (money)  
+
+(65)प्रशंसा prashansā _fu_ praise, admiration 
+ झूठीं प्रशंसा  false  admiration  
+ सच्ची प्रशंसा  sincere  admiration  
+ बहुत अधिक प्रशंसा    excessive admiration  
+
+(66)फ़र far _fu_ fur 
+ गरम फ़र  warm  fur  
+ नरम फ़र  soft  fur  
+ क़ीमती फ़र  valuable  fur  
+ नक़ली फ़र  imitation fur 
+
+(67)फ़रवरी far·varī _fu_ February 
+ अगली फ़रवरी  next  February  
+ पिछली फ़रवरी  last  February  
+
+(68)फ़िलासफ़ी filāsafī _fu_ philosophy 
+ भारतीय फ़िलासफ़ी  Indian  philosophy  
+ यूरोपीय फ़िलासफ़ी  European  philosophy  
+
+(69)फ़िल्म film _fu_ film 
+ कलात्मक फ़िल्म  artistic  film  
+ बोलती फ़िल्म  talkie  film  
+ मूक फ़िल्म  silent  film  
+ रंगीन फ़िल्म  coloured  film  
+
+(70)फुर्ती phurtī _fu_ agility, smartness 
+ असाधारण फुर्ती  unusual  smartness  
+ आश्चर्यजनक फुर्ती  astonishing  smartness  
+
+(71)सूझ-बूझ sūjh-būjh _fu_ wisdom 
+ प्रशासनिक सूझ-बूझ  administrative  wisdom  
+ राजनैतिक सूझ-बूझ  political  wisdom  
+
+(72)फुसफुसाहट phus·phusāhaṭ फुसर-फुसर phusar-phusar _fu_ whispering (sound) 
+ चोरी छिपे फुसफुसाहट   confidential  whispering (sound)   
+ दबी-दबी   फुसफुसाहट   subdued whispering (sound)   
+ बेकार फुसफुसाहट  vain  whispering (sound)  
+ हलकी फुसफुसाहट  gentle  whispering (sound)  
+
+(73)फ़ोटोग्राफ़ी foṭogrāfī _fu_ photography 
+ बढ़िया फ़ोटोग्राफ़ी  excellent  photography  
+ संतोषजनक फ़ोटोग्राफ़ी  satisfactory  photography  
+ रद्दी फ़ोटोग्राफ़ी  poor  photography  
+
+(74)बग़ावत baGāvat _fu_ revolt 
+ खुली बग़ावत  open  revolt  
+ ख़ूनी बग़ावत  bloody  revolt  
+ ज़ोरदार बग़ावत  violent  revolt  
+
+(75)बचत bachat _fu_ saving 
+ कुल बचत  aggregate  saving  
+ निजी बचत  private  saving  
+ भारी बचत  tremendous  saving  
+
+(76)बाढ़ bāṛh _fu_ flood, spate 
+ उठती बाढ़  surging  spate  
+ बढ़ती बाढ़  advancing  spate  
+ भयानक बाढ़  terrible  spate  
+
+(77)बालू bālū _fu_ sand 
+ खिसकती बालू  shifting  sand  
+ धँसती बालू  sinking  sand  
+ महीन बालू  fine  sand  
+ मझोली बालू  medium  sand  
+ मोटी बालू  coarse  sand  
+ साफ़ बालू  clean  sand  
+
+(78)बाल्यावस्था bālyāvasthā _fu_ childhood 
+ अकेली बाल्यावस्था  lonely  childhood  
+ खिलती बाल्यावस्था  blooming  childhood  
+ स्वस्थ बाल्यावस्था  healthy  childhood  
+
+(79)बास bās _fu_ (_gen_. bad) smell 
+ गंदी बास  foul  bad) smell  
+ तेज़ बास  sharp  bad) smell  
+ भयानक बास  dreadful  bad) smell  
+
+(80)बिक्री bikrī _fu_ sale 
+ अतिरिक़्त बिक्री  additional sale  
+ उधार बिक्री  credit sale  
+ थोक बिक्री  whole-sale 
+ नक़द बिक्री  cash  sale  
+ पहले की बिक्री    previous sale    
+ फुटकर बिक्री  miscellaneous  sale  
+
+(81)बिरादरी birādarī _fu_ brotherhood, fraternity 
+ इंसानी बिरादरी  human  fraternity  
+ जैन बिरादरी  Jain  fraternity  
+ हिन्दुस्तानी बिरादरी  Indian  fraternity  
+
+(82)बुनावट bunāvaṭ _fu_ texture 
+ गफ बुनावट  close  texture  
+ महीन बुनावट  fine  texture  
+ मोटी बुनावट  coarse  texture  
+
+(83)स्याही syāhī _fu_ ink 
+ काली स्याही  black  ink  
+ नीली स्याही  blue  ink  
+ लाल स्याही  red  ink  
+ हरी स्याही  green  ink 
+
+(84)भक्ति bhakti _fu_ devotion 
+ अंध भक्ति  blind  devotion  
+ पूर्ण भक्ति  complete  devotion   
+बेलाग भक्ति  unselfish  devotion  
+
+(85)भलाई bhalāī _fu_ good, well being 
+ आम भलाई  common  well being  
+ जनता की भलाई    public well being 
+ निजी/अपनी  भलाई   personal well being  
+
+(86)भविष्यवाणी bhaviṣyavāṇī _fu_ prophecy, prediction 
+ आशाजनक भविष्यवाणी  optimistic  prediction  
+ निराशाजनक भविष्यवाणी  pessimistic  prediction  
+
+(87)भाप bhāp _fu_ steam 
+ गरम भाप  hot  steam  
+ ज़हरीली भाप  poisonous  steam  
+ बदबूदार भाप  stinking  steam  
+
+(88)मकई mak aī _fu_ maize, Indian corn 
+ कच्ची मकई  unripe  Indian corn  
+ पकी मकई  ripened  Indian corn  
+ लंबी मकई  tall  Indian corn  
+
+(89)मख़मल maḵẖmal _fu_ velvet 
+ नरम मख़मल  soft  velvet  
+ चिकनी मख़मल  smooth  velvet  
+ गुलाबी मख़मल  pink  velvet  
+
+(90)मज़दूरी maz·dūrī _fu_ wage(s), labour charges 
+ उचित मज़दूरी  reasonable  labour charges  
+ नक़द मज़दूरी  cash  labour charges  
+ मासिक मज़दूरी  monthly  labour charges  
+ साप्ताहिक मज़दूरी  weekly  labour charges  
+
+(91)मलहम mal·mal _fu_ muslin 
+ बढ़िया मलहम  superior  muslin  
+ बारीक मलहम  fine  muslin  
+ सफ़ेद मलहम  white  muslin  
+
+(92)मलाल malāī _fu_ scum 
+ गाढ़ी/मोटी मलाल  thick  scum  
+ पतली मलाल  thin  scum  
+ बासी मलाल  stale  scum  
+
+(93)मातृभूमि matribhūmi _fu_ mother- land 
+ प्यारी मातृभूमि  beloved  mother- land  
+ पावन मातृभूमि  sacred  mother- land  
+
+(94)माफ़ि māfī _fu_ pardon, forgiveness 
+ खुली माफ़ि  free  forgiveness  
+ बिला-शर्त माफ़ि  unconditional  forgiveness  
+
+(95)मित्रता mitratā _fu_ friendship
+ घनिष्ठ मित्रता  intimate/deep  friendship  
+ पक्की मित्रता  lasting  friendship  
+ पुरानी मित्रता  old  friendship  
+ सच्ची मित्रता  true  friendship  
+
+(96)मुक्केबाज़ी mukkebāzī _fu_ boxing 
+ ज़ोरदार मुक्केबाज़ी  vigorous  boxing  
+ बढ़िया मुक्केबाज़ी  splendid/excellent  boxing  
+
+(97)याददाश्त yād·dāshta _fu_ memory 
+ तेज़ याददाश्त  sharp  memory  
+ कमज़ोर याददाश्त  feeble  memory  
+ धुँधली याददाश्त  cloudy  memory  
+ बढ़िया याददाश्त  excellent  memory  
+
+(98)रंगभूमि raṅg-bhūmi _fu_ theatre 
+ आधुनिक रंगभूमि  modern  theatre  
+ पुरानी रंगभूमि  old  theatre  
+
+(99)रज़ामंदी razāmandī _fu_ consent 
+ आम रज़ामंदी  general  consent  
+ आपसी रज़ामंदी  mutual  consent  
+
+(100)रफ्तार raftār _fu_ speed 
+ तेज़ रफ्तार  fast/rapid  speed    
+ धीमी रफ्तार  slow  speed  
+ पूरी रफ्तार  full  speed  
+
+(101)राजनीति rāj·nīti _fu_ politics 
+ गंदी राजनीति  dirty  politics  
+ दलगत राजनीति  party  politics  
+ भ्रष्ट राजनीति  corrupt  politics  
+
+(102)राजभक्ति rāj·bhakti _fu_ loyalty (to the ruler) 
+ कट्टर राजभक्ति  staunch  loyalty (to the ruler)  
+ अशर्त राजभक्ति  unconditional  loyalty (to the ruler)  
+ सच्ची राजभक्ति  true  loyalty (to the ruler)  
+
+(103)राजसत्ता rāj·sattā _fu_ government authority, political power 
+ परिमित राजसत्ता  limited  political power  
+ अपार राजसत्ता  vast  political power  
+
+(104)राब rāb _fu_ treacle, molasses 
+ गाढ़ी राब  thick molasses 
+ काली राब  black  molasses  
+
+(105)स्वायत्तता svāyattatā _fu_ autonomy 
+ आंतरिक स्वायत्तता  internal  autonomy  
+ पूर्ण स्वायत्तता  complete/absolute  autonomy  
+
+(106)रूई rūī _fu_ cotton 
+ कच्ची रूई  raw  cotton  
+ रेशे-वाली  रूई     fibrous cotton
+ बढ़िया रूई   superior quality of cotton
+
+(107)रेत ret _fu_ sand 
+ महीन रेत  fine  sand  
+ मोटी रेत  coarse  sand  
+
+(108)स्वीकृति svīkriti _fu_ acceptance 
+ अग्रिम स्वीकृति  advance  acceptance  
+ मौखिक स्वीकृति  oral/verbal  acceptance  
+ सामान्य स्वीकृति  general  acceptance  
+
+(109)हड़बड़ी haṛ·baṛī _fu_ flurry, confusion 
+ थोड़ी हड़बड़ी  slight  confusion  
+ बिल्कुल हड़बड़ी  utter  confusion  
+
+(110)लागत lāgat _fu_ cost 
+ कुल लागत  total  cost  
+ थोड़ी लागत  small  cost  
+ भारी लागत  heavy/great  cost  
+ क़ीमत लागत  price  cost  
+
+(111)लाटरी lāṭarī _fu_ lottery 
+ माहवारी लाटरी  monthly  lottery  
+ हफ़्तावारी लाटरी  weekly  lottery  
+ सरकारी लाटरी  government  lottery  
+
+(112)लाखाई likhāī _fu_ writing 
+ स्पष्ट/साफ़ लाखाई  clear  writing  
+ सुंदर लाखाई  beautiful  writing  
+
+(113)लिखावट likhāvaṭ _fu_ handwriting 
+ बढ़िया लिखावट  nice  handwriting  
+ गंदी लिखावट  ugly  handwriting  
+ सुन्दर लिखावट  beautiful  handwriting  
+
+(114)हमदर्दी ham·dardī _fu_ sympathy 
+ गहरी हमदर्दी  deep  sympathy  
+ दिली हमदर्दी  cordial  sympathy  
+ पूरी हमदर्दी  full  sympathy  
+ बेहद हमदर्दी  boundless  sympathy  
+
+(115)हलचल hal·chal _fu_ stir, commotion 
+ अचानक हलचल  sudden  commotion  
+ ज़बरदस्त हलचल  strong  commotion  
+ भारी हलचल  enormous  commotion  
+
+(116)वर्तनी vartanī _fu_ spelling 
+ अशुध्द वर्तनी  incorrect  spelling  
+ शुध्द वर्तनी  correct  spelling  
+ सामान्य वर्तनी  common  spelling  
+
+(117)हवालात havālāt _fu_ lock-up 
+ अदालती हवालात  judicial  lock-up  
+ पुलिस हवालात  police  lock-up   
+
+(118)वार्निश vārnish _fu_ varnish 
+ पतली-पतली  वार्निश    thin varnish    
+ मोटी-मोटी वार्निश  thick  varnish  
+
+(119)वास्तु-कला vāstu-kalā _fu_ architecture 
+ प्राचीन वास्तु-कला  ancient  architecture  
+ मध्यकालीन वास्तु-कला  mediaeval  architecture  
+
+(120)विरासत virāsat _fu_ inheritance, legacy 
+ भारी विरासत  great  legacy  
+ मामूली विरासत  ordinary  legacy  
+ पुरानी विरासत  old  legacy  
+
+(121)शक्कर shakkar _fu_ (raw) sugar 
+ लाल शक्कर  brown  (raw) sugar  
+ सफ़ेद शक्कर  white  (raw) sugar  
+
+(122)शत्रुता shatrutā _fu_ enmity, hostility 
+ गहरी शत्रुता  deep  hostility  
+ घोर शत्रुता  dire  hostility  
+ व्यक्तिगत शत्रुता  personal  hostility  
+
+(123)शरत् sharat, शरद् sharad _fu_ autumn 
+ ठंडा शरत्  cold  autumn  
+ हलका शरत्  mild  autumn  
+ सुहावना शरत्  pleasant  autumn      
