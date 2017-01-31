@@ -2,7 +2,7 @@ from django.shortcuts import render, render_to_response
 from django.http import HttpResponse
 import random
 from nltk.corpus import wordnet as wn
-from .forms import OptionForm, _OptionForm
+from .forms import OptionForm
 from trainingInterface.models import Record
 from django.views.decorators.csrf import csrf_protect
 
@@ -29,7 +29,7 @@ def index(request):
             ret.append(_text[start:idx])
             start = idx + 1
         return ret[1:]
-    word = random.choice(Record.objects.all().filter(english_meaning='mansion'))
+    word = random.choice(Record.objects.all().filter(sense=None))
     words = Record.objects.all().filter(english_meaning=word.english_meaning)
     wordFeatureList = list()
     for w in words:
@@ -41,7 +41,7 @@ def index(request):
         wordFeatureList.append(_word)
     senses = wn.synsets(word.english_meaning)
     lines = ((i, "{}, {}, [{}]".format(i, sense.lexname(), ', '.join(sense.lemma_names()))) for i, sense in enumerate(senses))
-    form = _OptionForm(request.POST or None, options=lines, h_words=wordFeatureList)
+    form = OptionForm(request.POST or None, options=lines, h_words=wordFeatureList)
     if request.method == 'POST':
         for idx in range(len(wordFeatureList)):
             print request.POST['correct_sense_{}'.format(idx)], request.POST['hindi_word_{}'.format(idx)]
