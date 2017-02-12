@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+    <style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+    th, td {
+        padding: 5px;
+        text-align: left;
+    }
+    </style>
+</head>
+<body>
+    <table style="width:100%">
+        <tr>
+            <th>Hindi Word</th>
+            <th>English Meaning</th>
+            <th>Sense Number</th>
+        </tr>
+        {% for record in output %}
+        <tr>
+            <td>{{ record.hindi_word }}</td>
+            <td>{{ record.english_meaning }} </td>
+            <td>{{ record.sense }} </td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+<!-- This works! :) -->

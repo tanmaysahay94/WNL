@@ -49,3 +49,7 @@ def index(request):
             update_word.sense = int(request.POST['correct_sense_{}'.format(idx)])
             update_word.save()
     return render(request, 'form.html', {'form':form, 'metadata':wordFeatureList, 'enumerated_hindi_words':enumerate(w['hindi_word'] for w in wordFeatureList)})
+
+def result(request):
+    records = Record.objects.all().filter(sense__isnull=False)
+    return render(request, 'output.html', {'output':records})
