@@ -44,10 +44,12 @@ def index(request):
     form = OptionForm(request.POST or None, options=lines, h_words=wordFeatureList)
     if request.method == 'POST':
         for idx in range(len(wordFeatureList)):
-            print request.POST['correct_sense_{}'.format(idx)], request.POST['hindi_word_{}'.format(idx)]
-            update_word = Record.objects.filter(hindi_word=request.POST['hindi_word_{}'.format(idx)])[0]
-            update_word.sense = int(request.POST['correct_sense_{}'.format(idx)])
-            update_word.save()
+            try:
+                update_word = Record.objects.filter(hindi_word=request.POST['hindi_word_{}'.format(idx)])[0]
+                update_word.sense = int(request.POST['correct_sense_{}'.format(idx)])
+                update_word.save()
+            except:
+                pass
     return render(request, 'form.html', {'form':form, 'metadata':wordFeatureList, 'enumerated_hindi_words':enumerate(w['hindi_word'] for w in wordFeatureList)})
 
 def result(request):
