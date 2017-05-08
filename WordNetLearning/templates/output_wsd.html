@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<body>
+    <table style="width:100%">
+        <tr>
+            <th>Word</th>
+            <th>Sense</th>
+        </tr>
+        {% for record in output %}
+        <tr>
+            <td>{{record.0}}</td>
+            <td>{{record.1}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+<!-- This works! :) -->

@@ -1,0 +1,7 @@
+<h4> Enter sentence whose words are to be disambiguated </h4>
+
+<form method="POST" action=".">
+    {% csrf_token %}
+    <input type="text" name="input_sentence" size="100">
+    <input type="submit" value="Submit">
+</form>

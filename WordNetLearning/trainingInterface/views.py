@@ -5,6 +5,8 @@ from nltk.corpus import wordnet as wn
 from .forms import OptionForm
 from trainingInterface.models import Record
 from django.views.decorators.csrf import csrf_protect
+from pywsd import disambiguate
+from pywsd.similarity import max_similarity as maxsim
 
 import sys
 reload(sys)
@@ -55,3 +57,11 @@ def index(request):
 def result(request):
     records = Record.objects.all().filter(sense__isnull=False)
     return render(request, 'output.html', {'output':records})
+
+def wsd(request):
+    if request.method == 'POST':
+        input_sentence = request.POST['input_sentence']
+        output = disambiguate(input_sentence, algorithm=maxsim, similarity_option='wup', keepLemmas=True)
+        output = [(record[0], record[2].lexname()) if record[2] is not None else (record[0], None) for record in output]
+        return render(request, 'output_wsd.html', {'output':output})
+    return render(request, 'form_wsd.html', {})
